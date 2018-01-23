@@ -7,7 +7,6 @@ LATINO<>https://imgur.com/zQR7hVV.png<>Canal F1 Latin America<>http://189.216.24
 LATINO<>https://www.rapidtvnews.com/images/canalsony.jpg<>Canal Sony<>http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
 LATINO<>http://www.cartoonnetwork.com/static/images/global/ogLogo.png<>Cartoon Network<>http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
 LATINO<>http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png<>CGTN<>http://livees.cgtn.com/1000e/prog_index.m3u8
-LATINO<>http://static.tvtropes.org/pmwiki/pub/images/chespirito.jpg<>Chespirito TV<>https://clutch.vaughnsoft.net/ord/vl/chespirito_tv.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cienciaficcion_320.jpg<>Ciencia Ficcion<>https://clutch.vaughnsoft.net/ord/vl/cienciaficcion01.m3u8
 LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png<>Cinemax<>http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cine_calidad_320.jpg<>Cine Calidad<>https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
@@ -19,7 +18,6 @@ LATINO<>https://imgur.com/ism40Xo.png<>E!<>http://live.izzitv.mx/Content/HLS/Liv
 LATINO<>https://i.imgur.com/nQoFljD.png<>El Chavo VOD [NoRoku]<>https://goo.gl/8W1wKL
 LATINO<>https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png<>Fusion<>http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/Stream(05)/index.m3u8
 LATINO<>http://www.gamba.fm/wp/wp-content/uploads/2017/09/Futurama.jpg<>Futurama VOD [NoRoku]<>https://goo.gl/DZSUJc
-LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/goku_tv_320.jpg<>Goku TV<>https://clutch.vaughnsoft.net/ord/vl/goku_tv.m3u8
 LATINO<>https://imgur.com/pLT4SP6.png<>H2<>http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
 LATINO<>https://i.imgur.com/lnRYeBB.png<>HispanTV<>http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 LATINO<>https://imgur.com/uWdY6xI.png<>History<>http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
@@ -56,6 +54,7 @@ LATINO<>http://www.playhdtv.pw/img/vh1megahits.png<>VH1 Mega Hits<>http://str02.
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/zonafilms_320.jpg<>Zona Films<>https://clutch.vaughnsoft.net/ord/vl/zonafilmsterror.m3u8
 GROUP:MEXICO
 MEXICO<>https://i.imgur.com/vzTZCxv.png<>ADN 40 (Opt-2)<>http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+MEXICO<>https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png<>Azteca 7<>http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 MEXICO<>http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png<>Azteca Uno<>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 MEXICO<>https://i.imgur.com/SY3a9yU.png<>Azteca Mas<>http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 MEXICO<>https://imgur.com/RGUbr5h.png<>Bandamax<>http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
@@ -71,7 +70,8 @@ MEXICO<>http://televisa-networks.com/wp-content/uploads/2016/03/distrito-comedia
 MEXICO<>https://i.imgur.com/y5vozsr.png<>Efekto TV<>http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
 MEXICO<>https://imgur.com/mimf96E.png<>ESPN HD<>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 MEXICO<>https://imgur.com/dsgxyBY.png<>ESPN 2 HD<>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
-MEXICO<>https://i.imgur.com/xomvDm7.png<>FOROtv<>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+MEXICO<>https://i.imgur.com/xomvDm7.png<>FOROtv (Opt-1)<>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+MEXICO<>https://i.imgur.com/xomvDm7.png<>FOROtv (Opt-2)<>http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8
 MEXICO<>https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg<>Gala TV Merida<>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 MEXICO<>https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg<>Gala TV Mexico City<>http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 MEXICO<>https://imgur.com/QaUMABB.png<>Golden HD<>http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
@@ -121,6 +121,7 @@ SPAIN<>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png<>Atr
 SPAIN<>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png<>Be Mad<>http://MSET-PROD-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35.m3u8
 SPAIN<>http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg<>Betis TV<>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 SPAIN<>http://www.brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg<>Beteve<>http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
+SPAIN<>http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg<> Boing<>https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 SPAIN<>http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg<>Canal 4 Centro Mancha<>http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
 SPAIN<>http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png<>Canal 4 Tenerife<>https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
 SPAIN<>http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png<>Canal 7<>http://163.172.15.219:1935/live/vivatv/playlist.m3u8
