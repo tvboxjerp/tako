@@ -2,27 +2,26 @@ GROUP:LATINO
 LATINO<>https://imgur.com/0mYHdap.png<>AMC<>http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
 LATINO<>https://i.imgur.com/xE51fHv.png<>America Teve<>http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 LATINO<>https://imgur.com/axvewxY.png<>Animax<>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-LATINO<>https://www.axn-asia.com/sites/asia.axn/files/logos/axn_0.png<>AXN<>http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+LATINO<>https://www.axn-asia.com/sites/asia.axn/files/logos/axn_0.png<>AXN (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
 LATINO<>https://imgur.com/zQR7hVV.png<>Canal F1 Latin America<>http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
-LATINO<>https://www.rapidtvnews.com/images/canalsony.jpg<>Canal Sony<>http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
-LATINO<>http://www.cartoonnetwork.com/static/images/global/ogLogo.png<>Cartoon Network<>http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+LATINO<>https://www.rapidtvnews.com/images/canalsony.jpg<>Canal Sony (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+LATINO<>http://www.cartoonnetwork.com/static/images/global/ogLogo.png<>Cartoon Network (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
 LATINO<>http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png<>CGTN<>http://livees.cgtn.com/1000e/prog_index.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cienciaficcion_320.jpg<>Ciencia Ficcion<>https://clutch.vaughnsoft.net/ord/vl/cienciaficcion01.m3u8
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png<>Cinemax<>http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png<>Cinemax (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cine_calidad_320.jpg<>Cine Calidad<>https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cine_star_320.jpg<>Cine Star<>https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
 LATINO<>https://i.imgur.com/uXp0iUW.png<>Cuenca Vision<>http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 LATINO<>https://i.imgur.com/YEs2cGe.png<>Deutsche Welle (Opt-1)<>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 LATINO<>https://i.imgur.com/YEs2cGe.png<>Deutsche Welle (Opt-2)<>https://latamonly-lh.akamaihd.net/i/dw_1@576290/master.m3u8
-LATINO<>https://vignette.wikia.nocookie.net/disney/images/b/b8/Disney_junior_04.jpg<>Disney Junior (Off)<>http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-LATINO<>https://imgur.com/ism40Xo.png<>E!<>http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+LATINO<>https://imgur.com/ism40Xo.png<>E! (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
 LATINO<>https://i.imgur.com/nQoFljD.png<>El Chavo VOD [NoRoku]<>https://goo.gl/8W1wKL
 LATINO<>http://www.fixundfoxi.tv/fileadmin/img/fixundfoxi.png<>Fix & Foxi<>https://latamonly-lh.akamaihd.net/i/fixfoxi_1@576421/master.m3u8
 LATINO<>https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png<>Fusion<>http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/Stream(05)/index.m3u8
 LATINO<>http://www.gamba.fm/wp/wp-content/uploads/2017/09/Futurama.jpg<>Futurama VOD [NoRoku]<>https://goo.gl/DZSUJc
-LATINO<>https://imgur.com/pLT4SP6.png<>H2<>http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
+LATINO<>https://imgur.com/pLT4SP6.png<>H2 (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
 LATINO<>https://i.imgur.com/lnRYeBB.png<>HispanTV<>http://107.189.40.49:1935/live/hispantv/playlist.m3u8
-LATINO<>https://imgur.com/uWdY6xI.png<>History<>http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+LATINO<>https://imgur.com/uWdY6xI.png<>History (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/katyhd_320.jpg<>Katy HD<>https://clutch.vaughnsoft.net/ord/vl/katyhd.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/latinokidstv_320.jpg<>Latino Kids TV<>https://clutch.vaughnsoft.net/ord/vl/latinokidstv.m3u8
 LATINO<>https://i.imgur.com/xsxgroC.png<>La Mega Mundial<>http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
@@ -32,23 +31,23 @@ LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_chavo_320
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_extremo_320.jpg<>Mega Extremo<>https://clutch.vaughnsoft.net/ord/vl/mega_extremo.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_movieshd_320.jpg<>Mega Movies HD<>https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
 LATINO<>https://i.imgur.com/K52brqr.png<>Melody Channel<>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-LATINO<>https://i.imgur.com/8YbXC9D.png<>NatGeo Wild<>http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-LATINO<>https://pmcvariety.files.wordpress.com/2014/08/nick-nickelodeon-logo.jpg<>Nickelodeon<>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-LATINO<>https://imgur.com/NIuloEN.png<>Nick Jr.<>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+LATINO<>https://i.imgur.com/8YbXC9D.png<>NatGeo Wild (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+LATINO<>https://pmcvariety.files.wordpress.com/2014/08/nick-nickelodeon-logo.jpg<>Nickelodeon (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+LATINO<>https://imgur.com/NIuloEN.png<>Nick Jr. (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 LATINO<>https://imgur.com/iDYzBh7.png<>Paramount Channel<>http://189.216.247.113/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/Stream(05)/index.m3u8
 LATINO<>http://forounivers.com/uploads/monthly_2017_01/large.PX-Sports.png.c552f2462e893fd44d90b9f1b4346cf9.png<>PX Sports<>https://latamonly-lh.akamaihd.net/i/pxtv_1@576425/master.m3u8
 LATINO<>https://i.imgur.com/OFvdVlA.png<>RT<>https://secure-streams.akamaized.net/rt-esp/index.m3u8
 LATINO<>http://static.mobiletv.mobibase.com/html/logo/hd/channel_ld_709.png<>Show Business TV<>https://latamonly-lh.akamaihd.net/i/showbusiness_1@576899/master.m3u8
-LATINO<>https://buscador.cablevisionfibertel.com.ar/logos/33.png<>Space<>http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
-LATINO<>https://buscador.cablevisionfibertel.com.ar/logos/33.png<>Space<>http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+LATINO<>https://buscador.cablevisionfibertel.com.ar/logos/33.png<>Space (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+LATINO<>https://buscador.cablevisionfibertel.com.ar/logos/33.png<>Space (Opt-2)<>http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 LATINO<>http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png<>Sundance TV<>http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
 LATINO<>https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg<>Telemundo 51 Miami<>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 LATINO<>https://i.imgur.com/tHGr6ns.png<>Telemusica<>http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 LATINO<>http://images.mi.tv/channels/mx_tiin_m.png<>Tiin<>http://189.216.247.113/Content/HLS/Live/Channel(TIIN)/Stream(05)/index.m3u8
-LATINO<>http://www.tntla.com/billboard/images/logo_tnt_cream.png<>TNT (Opt-1)<>http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+LATINO<>http://www.tntla.com/billboard/images/logo_tnt_cream.png<>TNT (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
 LATINO<>http://www.tntla.com/billboard/images/logo_tnt_cream.png<>TNT (Opt-2)<>http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-LATINO<>http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png<>TNT Series<>http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
-LATINO<>https://imgur.com/cEzJgwB.png<>truTV<>http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
+LATINO<>http://www.totalplay.com.mx/images/logos/canales/entretenimiento/tnt-series.png<>TNT Series (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+LATINO<>https://imgur.com/cEzJgwB.png<>truTV (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
 LATINO<>https://i.imgur.com/VICta82.png<>TV Marti<>http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 LATINO<>https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnIAAAAJGFkMzVhNWY1LWJjYjgtNGE4ZC05YWQ4LTUzNGQ2MDU2OGIyYQ.png<>TV5MONDE Amerique Latine<>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png<>UniMas<>http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
@@ -68,7 +67,7 @@ MEXICO<>https://i.imgur.com/SY3a9yU.png<>Azteca Mas<>http://aztecahls2-lh.akamai
 MEXICO<>https://pbs.twimg.com/profile_images/894015848574103554/2pl3kbYA.jpg<>AYM Sports<>https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
 MEXICO<>https://imgur.com/RGUbr5h.png<>Bandamax<>http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
 MEXICO<>http://www.c7jalisco.com/sites/default/files/logo%20web.jpg<>C7 Jalisco<>http://streamingcws10.com:1935/c7noticias/videoc7noticias/chunklist_w48198864_DVR.m3u8
-MEXICO<>http://i2.esmas.com/2015/01/06/734691/canal-5-330x330.jpg<>Canal 5 Mexico City<>http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+MEXICO<>http://i2.esmas.com/2015/01/06/734691/canal-5-330x330.jpg<>Canal 5 Mexico City (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
 MEXICO<>https://i.imgur.com/RcHaKDY.png<>Canal 10 Cancun<>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 MEXICO<>http://www.tvdxtips.com/canal10chiapas2015.jpg<>Canal 10 Chiapas<>http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
 MEXICO<>https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Canal_22_logo.gif<>Canal 22 Mexico City<>https://latamonly-lh.akamaihd.net/i/canal22_1@576296/master.m3u8
@@ -80,7 +79,7 @@ MEXICO<>https://i.imgur.com/AlG8pAu.png<>Canal Once Mexico City (Opt-2)<>https:/
 MEXICO<>https://www.foromedios.com/uploads/monthly_2017_06/thumb.507_tvc-platino.png.9a062e386a1e8460ad2ebf323df9fae9.png<>Cinema Platino<>https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
 MEXICO<>http://tv.lawalocos.com/imagenes-canales/cinemexicano.jpeg<>CineMexicano<>https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
 MEXICO<>https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO.jpeg<>Claro Sports<>https://latamonly-lh.akamaihd.net/i/clarosports_1@576705/master.m3u8
-MEXICO<>http://televisa-networks.com/wp-content/uploads/2016/03/distrito-comedia.png<>Distrito Comedia<>http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+MEXICO<>http://televisa-networks.com/wp-content/uploads/2016/03/distrito-comedia.png<>Distrito Comedia (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 MEXICO<>https://i.imgur.com/y5vozsr.png<>Efekto TV<>http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
 MEXICO<>https://imgur.com/mimf96E.png<>ESPN HD<>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 MEXICO<>https://imgur.com/dsgxyBY.png<>ESPN 2 HD<>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
@@ -89,7 +88,7 @@ MEXICO<>https://i.imgur.com/xomvDm7.png<>FOROtv (Opt-1)<>http://185417-f.akamaih
 MEXICO<>https://i.imgur.com/xomvDm7.png<>FOROtv (Opt-2)<>http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8
 MEXICO<>https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg<>Gala TV Merida<>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 MEXICO<>https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg<>Gala TV Mexico City<>http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
-MEXICO<>https://imgur.com/QaUMABB.png<>Golden HD<>http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+MEXICO<>https://imgur.com/QaUMABB.png<>Golden HD (Off)<>http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas [Geo]<>http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas (-2)<>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 MEXICO<>https://i.imgur.com/vYoOv48.png<>Mexiquense Toluca<>http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
