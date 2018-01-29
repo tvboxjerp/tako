@@ -1,5 +1,4 @@
 GROUP:LATINO
-LATINO<>
 LATINO<>https://imgur.com/0mYHdap.png<>AMC<>http://200.78.215.85:8010/play/a08r
 LATINO<>https://i.imgur.com/xE51fHv.png<>America Teve<>http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 LATINO<>https://imgur.com/axvewxY.png<>Animax<>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
