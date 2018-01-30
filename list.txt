@@ -1,4 +1,5 @@
 GROUP:LATINO
+LATINO<>https://imgur.com/axvewxY.png<>Telemundo<>https://vaughnlive.tv/telemundo50
 LATINO<>https://imgur.com/axvewxY.png<>Animax<>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 LATINO<>http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png<>CGTN<>http://livees.cgtn.com/1000e/prog_index.m3u8
 LATINO<>https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cienciaficcion_320.jpg<>Ciencia Ficcion<>https://clutch.vaughnsoft.net/ord/vl/cienciaficcion01.m3u8
@@ -26,7 +27,7 @@ LATINO<>http://forounivers.com/uploads/monthly_2017_01/large.PX-Sports.png.c552f
 LATINO<>https://i.imgur.com/OFvdVlA.png<>RT<>https://secure-streams.akamaized.net/rt-esp/index.m3u8
 LATINO<>http://static.mobiletv.mobibase.com/html/logo/hd/channel_ld_709.png<>Show Business TV<>https://latamonly-lh.akamaihd.net/i/showbusiness_1@576899/master.m3u8
 LATINO<>http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png<>Sundance TV<>http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
-LATINO<>https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg<>Telemundo 51 Miami<>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+LATINO<>https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg<>51 Miami<>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 LATINO<>https://i.imgur.com/tHGr6ns.png<>Telemusica<>http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 LATINO<>http://images.mi.tv/channels/mx_tiin_m.png<>Tiin<>http://189.216.247.113/Content/HLS/Live/Channel(TIIN)/Stream(05)/index.m3u8
 LATINO<>https://i.imgur.com/VICta82.png<>TV Marti<>http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
