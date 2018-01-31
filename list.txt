@@ -25,7 +25,6 @@ LATINO<>https://imgur.com/iDYzBh7.png<>Paramount Channel<>http://189.216.247.113
 LATINO<>http://forounivers.com/uploads/monthly_2017_01/large.PX-Sports.png.c552f2462e893fd44d90b9f1b4346cf9.png<>PX Sports<>https://latamonly-lh.akamaihd.net/i/pxtv_1@576425/master.m3u8
 LATINO<>https://i.imgur.com/OFvdVlA.png<>RT<>https://secure-streams.akamaized.net/rt-esp/index.m3u8
 LATINO<>http://static.mobiletv.mobibase.com/html/logo/hd/channel_ld_709.png<>Show Business TV<>https://latamonly-lh.akamaihd.net/i/showbusiness_1@576899/master.m3u8
-LATINO<>http://www.sundancetv.la/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png<>Sundance TV<>http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
 LATINO<>https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg<>Telemundo 51 Miami<>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 LATINO<>https://i.imgur.com/tHGr6ns.png<>Telemusica<>http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 LATINO<>http://images.mi.tv/channels/mx_tiin_m.png<>Tiin<>http://189.216.247.113/Content/HLS/Live/Channel(TIIN)/Stream(05)/index.m3u8
@@ -47,7 +46,6 @@ MEXICO<>https://imgur.com/ughwriM.jpg<>Azteca Mundo<>https://latamonly-lh.akamai
 MEXICO<>http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png<>Azteca Uno<>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 MEXICO<>https://i.imgur.com/SY3a9yU.png<>Azteca Mas<>http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 MEXICO<>https://pbs.twimg.com/profile_images/894015848574103554/2pl3kbYA.jpg<>AYM Sports<>https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
-MEXICO<>https://imgur.com/RGUbr5h.png<>Bandamax<>http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
 MEXICO<>http://www.c7jalisco.com/sites/default/files/logo%20web.jpg<>C7 Jalisco<>http://streamingcws10.com:1935/c7noticias/videoc7noticias/chunklist_w48198864_DVR.m3u8
 MEXICO<>https://i.imgur.com/RcHaKDY.png<>Canal 10 Cancun<>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 MEXICO<>http://www.tvdxtips.com/canal10chiapas2015.jpg<>Canal 10 Chiapas<>http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
@@ -61,11 +59,9 @@ MEXICO<>https://www.foromedios.com/uploads/monthly_2017_06/thumb.507_tvc-platino
 MEXICO<>http://tv.lawalocos.com/imagenes-canales/cinemexicano.jpeg<>CineMexicano<>https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
 MEXICO<>https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO.jpeg<>Claro Sports<>https://latamonly-lh.akamaihd.net/i/clarosports_1@576705/master.m3u8
 MEXICO<>https://i.imgur.com/y5vozsr.png<>Efekto TV<>http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
-MEXICO<>https://imgur.com/mimf96E.png<>ESPN HD<>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
-MEXICO<>https://imgur.com/dsgxyBY.png<>ESPN 2 HD<>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 MEXICO<>https://i.imgur.com/xomvDm7.png<>FOROtv (Opt-1)<>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 MEXICO<>https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg<>Gala TV Merida<>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas [Geo]<>http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas (Geo)<>http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas (-2)<>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 MEXICO<>https://i.imgur.com/vYoOv48.png<>Mexiquense Toluca<>http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
 MEXICO<>https://i.imgur.com/qcJ5lk3.png<>Milenio TV (Opt-1)<>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -84,14 +80,11 @@ MEXICO<>https://i.imgur.com/1iWzKQH.png<>Puebla TV<>http://189.203.247.136/live/
 MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 1 Saltillo<>http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 2 Saltillo<>http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 3 Saltillo<>http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-MEXICO<>https://imgur.com/vUgTtqZ.png<>Ritmoson<>http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
 MEXICO<>https://i.imgur.com/Bfbjgfo.png<>RTG Guerrero<>http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 MEXICO<>https://i.imgur.com/H1AFRJh.png<>RTQ Queretaro<>http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 MEXICO<>http://mediavyasa.mx/archivos/representantes/logo/logoteleformula.jpg<>Teleformula<>http://gformula.mmdlive.lldns.net/gformula/596433f167b64696bb03398fecdefbad/chunklist_b732000.m3u8
-MEXICO<>https://imgur.com/vOH3TOn.png<>TeleHit<>http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
 MEXICO<>https://i.imgur.com/3orwGcy.png<>Telemar Campeche<>http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 MEXICO<>https://i.imgur.com/RWsmqRF.png<>Teleritmo<>http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
-MEXICO<>https://imgur.com/sZupsef.png<>TDN<>http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
 MEXICO<>https://i.imgur.com/DsVc3rO.png<>Tlaxcala TV<>http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 MEXICO<>https://i.imgur.com/AfSXooZ.png<>TvAcapulco<>http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
 MEXICO<>https://vignette.wikia.nocookie.net/logopedia/images/9/90/53.jpg.png<>TVC Deportes<>https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
