@@ -9,7 +9,6 @@
 <>https://i.imgur.com/KfsVNlB.png<>Garland TV<>http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
 <>http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png<>Golf Channel HD (Opt-1)<>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 <>https://i.imgur.com/HuFEXXs.png<>Miami TV<>http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-<>https://i.imgur.com/5tEE0qP.png<>NBA TV (Opt-1)<>http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
 <>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg<>Pac-12 Arizona<>http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 <>http://i4atv.us/wp-content/uploads/2017/01/1483508572pac-12-bayarea-logo.png.png<>PAC-12 Bay Area<>http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 <>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg<>Pac-12 Los Angeles<>http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
@@ -65,11 +64,11 @@
 <>http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg<>TV3 (Opt-1)<>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 <>http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png<>Vega Baja TV<>http://185.29.68.24/tvb.m3u8
 <>https://i.imgur.com/YEs2cGe.png<>Deutsche Welle (Opt-1)<>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-<>http://www.fotogramas.es/var/ezflow_site/storage/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias_landscape.jpg<>Los Simpson VOD [NoRoku]<>https://goo.gl/PWd25F
+<>http://www.fotogramas.es/var/ezflow_site/storage/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias_landscape.jpg<>Los Simpson VOD<>https://goo.gl/PWd25F
+<>https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnIAAAAJGFkMzVhNWY1LWJjYjgtNGE4ZC05YWQ4LTUzNGQ2MDU2OGIyYQ.png<>TV5MONDE Amerique Latine (Opt-1)<>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 <>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png<>Univision (Opt-1)<>https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
 <>https://i.imgur.com/vzTZCxv.png<>ADN 40 (Opt-1)<>http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 <>https://i.imgur.com/AlG8pAu.png<>Canal Once Mexico City (Opt-1)<>http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-<>https://i.imgur.com/xomvDm7.png<>FOROtv (Opt-1)<>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 <>https://i.imgur.com/qcJ5lk3.png<>Milenio TV (Opt-1)<>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 <>https://imgur.com/ajBGBm5.png<>Multimedios Monterrey (Opt-1)<>http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 <>http://images.mi.tv/channels/ar_canal-10-de-cordoba_m.png<>Canal 10 Cordoba<>http://dcunilive30-lh.akamaihd.net:80/i/dclive_1@535534/master.m3u8
@@ -81,7 +80,9 @@
 <>https://c2.staticflickr.com/6/5698/21150836481_f3ec4a08f0_o.png<>Teletrak [Opt-1]<>http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
 <>http://livesport.im/wp-content/uploads/2014/12/TVS-Canal-13.jpg<>TVS<>http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
 <>http://images.mi.tv/channels/co_canal-14-cali_m.png<>Canal 14<>http://181.143.238.252/live/livestream/index.m3u8
+<>https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO.jpeg<>Claro Sports<>http://3-120heat.pulsedmedia.com/public-llave1/kr/clspoco/index.m3u8
 <>http://3.bp.blogspot.com/-19K43ULMe40/TrvUcbhyiiI/AAAAAAAAAlM/L7sXf72CeCA/s1600/cosmo+tv.png<>Cosmovision<>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+<>http://www.prensario.net/Multimedios/imgs/9260_468.jpg<>RCN Telenovelas<>http://3-120heat.pulsedmedia.com/public-llave1/kr/rcn_tln/index.m3u8
 <>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png<>Senal Colombia<>http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 <>http://www.rsmas.pe/wp-content/uploads/2015/06/1z2murt.jpg<>Capital TV (Opt-1)<>http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 <>http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png<>Canal M<>http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
@@ -90,14 +91,16 @@
 <>https://yt3.ggpht.com/-g2qCGe0XaT8/AAAAAAAAAAI/AAAAAAAAAAA/tCJ1vxOoUyU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg<>Trece [Opt-1]<>http://stream02.cyberfuel.com:1935/SinartCanal13/livestream/live.m3u8
 <>http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg<>Digital 15<>http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
 <>http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png<>TVES Canal 10<>http://198.24.135.42/canal10/canal10/playlist.m3u8
+<>http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg<>Promar TV (Opt-1)<>http://edge.wms28.lorini.net/promar/promar/live.m3u8
+<>https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg<>Ve Plus TV (Opt-1)<>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 <>http://accenttv.ro/wp-content/uploads/2017/06/logoaccenttv-3-Copy-1-300x145.jpg<>Accent TV<>http://188.173.22.231:8080/video/emisie.m3u8
 <>http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/BanatTVlogo_718-150x120.png<>Banat TV<>http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
 <>https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png<>UTV (Opt-1)<>http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-<>https://widgetlist.ulango.tv/uploads/channels/52/061fa202c31d544ce23a4d0b344f07d7-1.png<>Jug TV<>http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-<>http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/TVDugaSATlogo_1675-150x120.png<>TV Duga<>http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+<>https://telegrafi.com/wp-content/uploads/2016/08/Top-Estrada-1200x630.jpg<>Topestrada Music TV<>rtmp://89.163.208.115/live/topestrada/livestream
 <>http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png<>TVKopernikus 1<>http://212.200.102.3:5000/rtp/239.0.0.1:5000
 <>http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png<>TVKopernikus 2<>http://212.200.102.3:5000/rtp/239.0.0.2:5000
 <>http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png<>TVKopernikus 3<>http://212.200.102.3:5000/rtp/239.0.0.3:5000
+<>https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg<>TVPlus (Opt-1)<>http://141.136.14.18/kanal1/kanal1.m3u8
 <>http://iformula.ru/wp-content/themes/iformula/images/tv/logos/9-volna.png<>9 Volna<>http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
 <>http://s3.vefire.ru/l/250x150/ru/12KanalOmsk.png<>12 Kanal Omsk (Opt-1)<>http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
 <>https://pbs.twimg.com/profile_images/850265253849911296/Vjzwsr3n.jpg<>Astrakhan 24 (Opt-1)<>http://cdn-01.bonus-tv.ru/astrakhan/astrakhan24/type/user/devname/LG-SmartTV/devid/LG-1462523553/eol/20200101T000000/hash/6e03328c523da2fa9031f82301e3c56c69702a8f/hls.m3u8
@@ -135,9 +138,11 @@
 <>https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/1200px-Logo_112_Ukraine.svg.png<>112 Ukraine (Opt-1)<>http://app.live.112.events/hls/112hd_mid/index.m3u8
 <>https://pcdays.cz/wp-content/uploads/2016/10/3731506-logo-kanalu-ceskoslovensko-hd-1-620x83p0.png<>Ceskoslovensko<>http://65.254.55.10:4000/live/196/196.m3u8
 <>http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg<>Retro (Opt-1)<>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+<>https://upload.wikimedia.org/wikipedia/commons/8/83/Joj_logo_2015.jpg<>TV JOJ (Opt-1)<>http://http-stream.joj.sk/joj/joj/index-hq.m3u8
 <>http://okteve.com/wp-content/uploads/media/9e9d6d2b7e9c24a2773d97a576ab2476-196x126.jpeg<>TV Lux<>http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
-<>https://n-4-16.dcs.redcdn.pl/file/mm/multimedia/live/amazing/aMazingCover500x200.png<>aMazing TV [Off]<>http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
 <>http://okteve.com/wp-content/uploads/media/99624d83677ffdbc6a0dc8b450606b4d-520x293.jpeg<>Music Vox TV (Opt-1)<>http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+<>https://okteve.com/wp-content/uploads/media/1dce1414e29f97a89d588b47ba9e63a3.jpeg<>TV Kujawy (Opt-1)<>http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+<>http://93.159.131.123/gabi/insert/img/programy/twojatv.png<>Twoja TV (Opt-1)<>http://94.246.169.19/ttv_hls/live_270p/index.m3u8
 <>http://www.rodiaki.gr/articles/2013-12-09/267507/thumb_640.jpg<>Aigaio TV<>http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 <>http://www.montajuyduservisi.com/uploads/haber/7MvwpwQ9amvu-1QzZSrLBdWAmyy4KIpt.jpg<>1AN TV<>http://broadcasttr.com:1935/birantv/bant1/playlist.m3u8
 <>http://www.siyred.com/uploads/thumbs/8808168ff-1.jpg<>Cay TV<>http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
