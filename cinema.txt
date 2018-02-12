@@ -40,3 +40,5 @@ MOVIES<>http://image.tmdb.org/t/p/w154/VPGylo06LKeONc5h0KMXnNkJYc.jpg<>Step Sist
 MOVIES<>http://image.tmdb.org/t/p/w154/z8OKWw6DAZAOyz8F421euawr3Hs.jpg<>Thank You for Your Service (2017)<>http://www06.fastplay.to/2tdvytvymujtgz575ox3rze4fzruqw55e23p3fohv5q2cihyiqyskuepi6sa/v.mp4
 MOVIES<>http://image.tmdb.org/t/p/w154/kb9osnqanXRpkpm1bnSqAhKoq5T.jpg<>The Layover (2017)<>https://ralk7vi.filebebo.com:182/d/xf2aqlzpms5gp7bxg2hzei44jvvqvs6lzparyp5wtfotbbqedwsuvq55x4ywvyna5zfwaxgn/video.mp4
 MOVIES<>https://image.tmdb.org/t/p/w185/bnNgySK6IqOMmWBElbj6hAfNr5r.jpg<>Suburbicon<>https://www2203.playercdn.net/87/1/35J3H2sOCWV5jzOjUTbMJw/1518051993/180128/171FNW58J5JOM2Z65VBNM.mp4
+MOVIES<>https://image.tmdb.org/t/p/w1280/aQkXOiMi7yBR3XwDbGBzDI2Tqnq.jpg<>2:22 La hora señalada (2017)<>http://209.126.108.87/PELICULAS/2.22%20Premonition.mkv
+MOVIES<>https://image.tmdb.org/t/p/w1280/hz3gpUqya5QSZmW7ewvlonw3BAm.jpg<>6 Days<>http://209.126.108.87/PELICULAS/6%20days.mkv
