@@ -59,4 +59,4 @@ MOVIES<>https://image.tmdb.org/t/p/w370_and_h556_bestv2/j2WiJKaDfH1ffK9otbLnFJta
 MOVIES<>https://image.tmdb.org/t/p/w370_and_h556_bestv2/gZ10lKvIADXUwj7Z9e3jyItC8oZ.jpg<>Mi ultima palabra<>http://209.126.108.87/PELICULAS/Mi%20%c3%9altima%20Palabra.mkv
 MOVIES<>https://image.tmdb.org/t/p/w370_and_h556_bestv2/ld6WsaJKRwLzqPCulRo24XZDtuL.jpg<>No manches Frida<>http://209.126.108.87/PELICULAS/No%20Manches%20Frida%20(2016).mkv
 MOVIES<>https://image.tmdb.org/t/p/w370_and_h556_bestv2/sBGKQRwj21s5dT6FjjU4ostqGaa.jpg<>Hazlo como Hombre<>http://209.126.108.87/CAM-PELIS/Hazlo%20como%20Hombre%20(2017).mp4
-MOVIES<>https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg<>Madre<>https://drive.google.com/file/d/1J7ILl-UBPVBunHT1o7_ZBAb3D0Ake5sJ/preview
+MOVIES<>https://image.tmdb.org/t/p/w370_and_h556_bestv2/gB3cNhpfxEWSjiKSGOv8nlmVdeu.jpg<>Piratas del Caribe 5 La venganza de Salazar<>http://lavapies.linuxinthenight.com/peliculas/Piratas_del_Caribe_5-2017-Spanish_English_Subs-Fanta.mkv
