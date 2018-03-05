@@ -58,4 +58,3 @@ MOVIES<>Me estas matando Susana<>264418<>http://209.126.108.87/PELICULAS/Me%20es
 MOVIES<>Mi ultima palabra<>396810<>http://209.126.108.87/PELICULAS/Mi%20%c3%9altima%20Palabra.mkv<>https://image.tmdb.org/t/p/w370_and_h556_bestv2/gZ10lKvIADXUwj7Z9e3jyItC8oZ.jpg
 MOVIES<>No manches Frida<>375794<>http://209.126.108.87/PELICULAS/No%20Manches%20Frida%20(2016).mkv<>https://image.tmdb.org/t/p/w370_and_h556_bestv2/ld6WsaJKRwLzqPCulRo24XZDtuL.jpg
 MOVIES<>Hazlo como Hombre<>460316<>http://209.126.108.87/CAM-PELIS/Hazlo%20como%20Hombre%20(2017).mp4<>https://image.tmdb.org/t/p/w370_and_h556_bestv2/sBGKQRwj21s5dT6FjjU4ostqGaa.jpg
-EOF
