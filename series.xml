@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+    <serie>
+        <name>12 Monkeys</name>
+        <tmdbid>60948</tmdbid>
+        <fanart>https://image.tmdb.org/t/p/w1280/y2KF54M53ihULBNMRKVagtcprMT.jpg</fanart>
+        <season>
+            <title>Temporada 1</title>
+            <episodes>
+                <episode>
+                    <title>Capitulo 1</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x01%20(1).mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 2</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x02%20(1).mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 3</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x03.mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 4</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x04.mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 5</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_simios_1x05.mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 6</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x06.mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 7</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x07.mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 8</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x08.mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 9</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x09%20(1).mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 10</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x10%20(1).mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 11</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x11%20(1).mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 12</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x12%20(1).mkv</link>
+                    </links>
+                </episode>
+                <episode>
+                    <title>Capitulo 13</title>
+                    <links>
+                        <link>http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x13%20(1).mkv</link>
+                    </links>
+                </episode>
+            </episodes>
+        </season>
+    </serie>
+</list>
