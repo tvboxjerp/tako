@@ -65,7 +65,7 @@ Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581272504-Imagen.png<>SUNDANCE HD<>http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/Mza0MDIwMLY0MAEA/sundance.m3u8	 
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581359710-Imagen.png<>DHE HD<>http://ragnaroktv.com/hls_live/kr/DHE_HD/Mza0MDIwMLY0MAEA/dhe.m3u8	 
 Entretenimiento<><>The Film Zone<>http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/Mza0MDIwMLY0MAEA/fxm.m3u8	 
-Entretenimiento<><>AE HD<>http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/Mza0MDIwMLY0MAEA/aehd.m3u8	 
+Entretenimiento<>https://upload.wikimedia.org/wikipedia/commons/6/62/Aunde_hd.png<>AE HD<>http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/Mza0MDIwMLY0MAEA/aehd.m3u8	 
 Entretenimiento<><>Caracol<>http://ragnaroktv.com/hls_live/kr/CARACOL_HD/Mza0MDIwMLY0MAEA/caracol.m3u8	 
 GROUP:Infantil
 Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886922885-Imagen.png<>DISNEY XD<>http://ragnaroktv.com/hls_live/kr/DISNEY_XD/Mza0MDIwMLY0MAEA/d1sneyxd.m3u8	 
