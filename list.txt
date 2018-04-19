@@ -26,8 +26,6 @@ Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788260677-
 Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573629563-Imagen.png<>FOX Sports 2 MX HD<>http://ragnaroktv.com/hls_live/kr/FOXSP2_MX_HD/Mza0MDIwMDMyNQYA/f0xsports2mx.m3u8	 
 Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573587778-Imagen.png<>Fox Sports MX HD<>http://ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/Mza0MDIwMDMyNQYA/f0xsportsmx.m3u8	 
 GROUP:Entretenimiento
-Entretenimiento<>http://ragnaroktv.com/app/kodi/icon.png<>---------Donaciones Paypal---------<>http://ragnaroktv.com/1
-Entretenimiento<>http://ragnaroktv.com/app/kodi/icon.png<>------------http://paypal.me/ragnaroktv------------<>http://ragnaroktv.com/2
 Entretenimiento<>https://vignette.wikia.nocookie.net/es.starwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033<>TNT HD<>http://ragnaroktv.com/hls_live/kr/TNT_HD/Mza0MDIwMDMyNQYA/tnt.m3u8	
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099902532-Imagen.png<>Studio Universal<>http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/Mza0MDIwMDMyNQYA/stdio_univ.m3u8	 
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901230151-Imagen.png<>Space HD<>http://ragnaroktv.com/hls_live/kr/SPACE_HD/Mza0MDIwMDMyNQYA/space.m3u8	 
