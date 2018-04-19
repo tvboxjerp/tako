@@ -1,135 +1,172 @@
 GROUP:Cultura
 Cultura<>https://i.imgur.com/PvnxdW0.jpg<>C7 Cultura Jalisco<>http://streamingcws10.com:1935/c7cultura/videoc7cultura/playlist.m3u8
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572442553-Imagen.png<>DISCOVERY WORLD HD<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_WORLD_HD/Mza0MDIwMLY0MAEA/world.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377601533-Imagen.jpg<>DISCOVERY CHANNEL HD<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_CHANNEL_HD/Mza0MDIwMLY0MAEA/discovery_channel_hd.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719700577-Imagen.jpg<>DISCOVERY THEATER HD<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/Mza0MDIwMLY0MAEA/theater.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055485257-Imagen.png<>DISCOVERY CIVILIZATION<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/Mza0MDIwMLY0MAEA/disc_civil.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473875960218-Imagen.png<>DISCOVERY SCIENCE<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/Mza0MDIwMLY0MAEA/disc_science.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719725365-Imagen.jpg<>ANIMAL PLANET HD<>http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/Mza0MDIwMLY0MAEA/anim_planet.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572566456-Imagen.png<>HISTORY CHANNEL HD<>http://ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/Mza0MDIwMLY0MAEA/history.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471987397952-Imagen.png<>H2<>http://ragnaroktv.com/hls_live/kr/H2/Mza0MDIwMLY0MAEA/h2.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572692894-Imagen.png<>NATGEO HD<>http://ragnaroktv.com/hls_live/kr/NATGEO_HD/Mza0MDIwMLY0MAEA/natgeo.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471987463321-Imagen.png<>DISCOVERY TURBO<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/Mza0MDIwMLY0MAEA/disc_turbo.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719795345-Imagen.jpg<>TLC HD<>http://ragnaroktv.com/hls_live/kr/TLC_HD/Mza0MDIwMLY0MAEA/tlc.m3u8	 
-Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572692894-Imagen.png<>NatGeo MX HD<>http://ragnaroktv.com/hls_live/kr/NATGEO_MX_HD/Mza0MDIwMLY0MAEA/natgeo_mx.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572442553-Imagen.png<>DISCOVERY WORLD HD<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_WORLD_HD/Mza0MDIwMDMyNQYA/world.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377601533-Imagen.jpg<>DISCOVERY CHANNEL HD<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_CHANNEL_HD/Mza0MDIwMDMyNQYA/discovery_channel_hd.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719700577-Imagen.jpg<>DISCOVERY THEATER HD<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/Mza0MDIwMDMyNQYA/theater.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055485257-Imagen.png<>DISCOVERY CIVILIZATION<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/Mza0MDIwMDMyNQYA/disc_civil.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473875960218-Imagen.png<>DISCOVERY SCIENCE<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/Mza0MDIwMDMyNQYA/disc_science.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719725365-Imagen.jpg<>ANIMAL PLANET HD<>http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/Mza0MDIwMDMyNQYA/anim_planet.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572566456-Imagen.png<>HISTORY CHANNEL HD<>http://ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/Mza0MDIwMDMyNQYA/history.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471987397952-Imagen.png<>H2<>http://ragnaroktv.com/hls_live/kr/H2/Mza0MDIwMDMyNQYA/h2.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572692894-Imagen.png<>NATGEO HD<>http://ragnaroktv.com/hls_live/kr/NATGEO_HD/Mza0MDIwMDMyNQYA/natgeo.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471987463321-Imagen.png<>DISCOVERY TURBO<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/Mza0MDIwMDMyNQYA/disc_turbo.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719795345-Imagen.jpg<>TLC HD<>http://ragnaroktv.com/hls_live/kr/TLC_HD/Mza0MDIwMDMyNQYA/tlc.m3u8	 
+Cultura<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572692894-Imagen.png<>NatGeo MX HD<>http://ragnaroktv.com/hls_live/kr/NATGEO_MX_HD/Mza0MDIwMDMyNQYA/natgeo_mx.m3u8	 
 GROUP:Deportes
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573587778-Imagen.png<>FOX SPORTS HD<>http://ragnaroktv.com/hls_live/kr/FOX_SPORTS_HD/Mza0MDIwMLY0MAEA/foxsports.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573629563-Imagen.png<>FOX SPORTS2 HD<>http://ragnaroktv.com/hls_live/kr/FOX_SPORTS2_HD/Mza0MDIwMLY0MAEA/foxsports2.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573876718-Imagen.png<>FOX SPORTS3 HD<>http://ragnaroktv.com/hls_live/kr/FOX_SPORTS3_HD/Mza0MDIwMLY0MAEA/foxsports3.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498578654908-Imagen.png<>WIN SPORTS HD<>http://ragnaroktv.com/hls_live/kr/WINSPORTS_HD/Mza0MDIwMLY0MAEA/winsports.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472073265704-Imagen.png<>CLARO SPORTS Colombia<>http://ragnaroktv.com/hls_live/kr/CLARO_SPORTS_COL_HD/Mza0MDIwMLY0MAEA/clspoco.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573482363-Imagen.png<>ESPN HD<>http://ragnaroktv.com/hls_live/kr/ESPN_HD/Mza0MDIwMLY0MAEA/espn.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573513719-Imagen.png<>ESPN 2 HD<>http://ragnaroktv.com/hls_live/kr/ESPN_2_HD/Mza0MDIwMLY0MAEA/espn2.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573545513-Imagen.png<>ESPN 3 HD<>http://ragnaroktv.com/hls_live/kr/ESPN_3_HD/Mza0MDIwMLY0MAEA/espn3_kr.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573434219-Imagen.png<>ESPN + HD<>http://ragnaroktv.com/hls_live/kr/ESPN_PLUS_HD/Mza0MDIwMLY0MAEA/espn_plus.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788260677-Imagen.png<>GOLF CHANNEL HD<>http://ragnaroktv.com/hls_live/kr/GOLF_CHANNEL_HD/Mza0MDIwMLY0MAEA/golfchannel.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573629563-Imagen.png<>FOX Sports 2 MX HD<>http://ragnaroktv.com/hls_live/kr/FOXSP2_MX_HD/Mza0MDIwMLY0MAEA/f0xsports2mx.m3u8	 
-Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573587778-Imagen.png<>Fox Sports MX HD<>http://ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/Mza0MDIwMLY0MAEA/f0xsportsmx.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573587778-Imagen.png<>FOX SPORTS HD<>http://ragnaroktv.com/hls_live/kr/FOX_SPORTS_HD/Mza0MDIwMDMyNQYA/foxsports.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573629563-Imagen.png<>FOX SPORTS2 HD<>http://ragnaroktv.com/hls_live/kr/FOX_SPORTS2_HD/Mza0MDIwMDMyNQYA/foxsports2.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573876718-Imagen.png<>FOX SPORTS3 HD<>http://ragnaroktv.com/hls_live/kr/FOX_SPORTS3_HD/Mza0MDIwMDMyNQYA/foxsports3.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498578654908-Imagen.png<>WIN SPORTS HD<>http://ragnaroktv.com/hls_live/kr/WINSPORTS_HD/Mza0MDIwMDMyNQYA/winsports.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472073265704-Imagen.png<>CLARO SPORTS Colombia<>http://ragnaroktv.com/hls_live/kr/CLARO_SPORTS_COL_HD/Mza0MDIwMDMyNQYA/clspoco.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573482363-Imagen.png<>ESPN HD<>http://ragnaroktv.com/hls_live/kr/ESPN_HD/Mza0MDIwMDMyNQYA/espn.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573513719-Imagen.png<>ESPN 2 HD<>http://ragnaroktv.com/hls_live/kr/ESPN_2_HD/Mza0MDIwMDMyNQYA/espn2.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573545513-Imagen.png<>ESPN 3 HD<>http://ragnaroktv.com/hls_live/kr/ESPN_3_HD/Mza0MDIwMDMyNQYA/espn3_kr.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573434219-Imagen.png<>ESPN + HD<>http://ragnaroktv.com/hls_live/kr/ESPN_PLUS_HD/Mza0MDIwMDMyNQYA/espn_plus.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788260677-Imagen.png<>GOLF CHANNEL HD<>http://ragnaroktv.com/hls_live/kr/GOLF_CHANNEL_HD/Mza0MDIwMDMyNQYA/golfchannel.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573629563-Imagen.png<>FOX Sports 2 MX HD<>http://ragnaroktv.com/hls_live/kr/FOXSP2_MX_HD/Mza0MDIwMDMyNQYA/f0xsports2mx.m3u8	 
+Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573587778-Imagen.png<>Fox Sports MX HD<>http://ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/Mza0MDIwMDMyNQYA/f0xsportsmx.m3u8	 
 GROUP:Entretenimiento
-Entretenimiento<>https://vignette.wikia.nocookie.net/es.starwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033<>TNT HD<>http://ragnaroktv.com/hls_live/kr/TNT_HD/Mza0MDIwMLY0MAEA/tnt.m3u8	
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099902532-Imagen.png<>Studio Universal<>http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/Mza0MDIwMLY0MAEA/stdio_univ.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901230151-Imagen.png<>Space HD<>http://ragnaroktv.com/hls_live/kr/SPACE_HD/Mza0MDIwMLY0MAEA/space.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901933899-Imagen.png<>AMC HD<>http://ragnaroktv.com/hls_live/kr/AMC_HD/Mza0MDIwMLY0MAEA/amc.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487024510541-Imagen.png<>CINEMAX<>http://ragnaroktv.com/hls_live/kr/CINEMAX/Mza0MDIwMLY0MAEA/c1nemax.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581305400-Imagen.png<>GOLDEN HD<>http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/Mza0MDIwMLY0MAEA/golden.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903283991-Imagen.png<>MULTIPREMIER<>http://ragnaroktv.com/hls_live/kr/MULTIPREMIER/Mza0MDIwMLY0MAEA/multipremier.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903394359-Imagen.png<>CINE LATINO<>http://ragnaroktv.com/hls_live/kr/CINELATINO/Mza0MDIwMLY0MAEA/cinelatino.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580335989-Imagen.png<>CINECANAL HD<>http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/Mza0MDIwMLY0MAEA/cinecanal.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903766643-Imagen.png<>CINEMA DINAMITA<>http://ragnaroktv.com/hls_live/kr/CINEMA_DINAMITA/Mza0MDIwMLY0MAEA/cinema_dinamita.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580395733-Imagen.png<>PARAMOUNT HD<>http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/Mza0MDIwMLY0MAEA/param.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471986058450-Imagen.png<>TBS HD<>http://ragnaroktv.com/hls_live/kr/TBS_HD/Mza0MDIwMLY0MAEA/tbs.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887162711-Imagen.png<>EURO CHANNEL<>http://ragnaroktv.com/hls_live/kr/EUROCHANNEL/Mza0MDIwMLY0MAEA/eurochannel.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099996739-Imagen.png<>DEPELICULA<>http://ragnaroktv.com/hls_live/kr/DEPELICULA/Mza0MDIwMLY0MAEA/depelicula.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473787057771-Imagen.png<>ISAT<>http://ragnaroktv.com/hls_live/kr/ISAT/Mza0MDIwMLY0MAEA/isat.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473877797392-Imagen.png<>TCM<>http://ragnaroktv.com/hls_live/kr/TCM/Mza0MDIwMLY0MAEA/tcm.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985648368-Imagen.png<>WARNER HD<>http://ragnaroktv.com/hls_live/kr/WARNER_HD/Mza0MDIwMLY0MAEA/warner.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985711231-Imagen.png<>AXN HD<>http://ragnaroktv.com/hls_live/kr/AXN_HD/Mza0MDIwMLY0MAEA/axn.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487089143442-Imagen.png<>SONY HD<>http://ragnaroktv.com/hls_live/kr/SONY_HD/Mza0MDIwMLY0MAEA/sony.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579684862-Imagen.png<>FOX HD<>http://ragnaroktv.com/hls_live/kr/FOX_HD/Mza0MDIwMLY0MAEA/f0x.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579731673-Imagen.png<>UNIVERSAL CHANNEL<>http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/Mza0MDIwMLY0MAEA/univers.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579768608-Imagen.png<>FX HD<>http://ragnaroktv.com/hls_live/kr/FX_HD/Mza0MDIwMLY0MAEA/fx.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579819006-Imagen.png<>FOX LIFE HD<>http://ragnaroktv.com/hls_live/kr/FOX_LIFE_HD/Mza0MDIwMLY0MAEA/f0xlife.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579907239-Imagen.png<>TNT SERIES HD<>http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/Mza0MDIwMLY0MAEA/tnt_ser.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580040425-Imagen.png<>COMEDY CENTRAL HD<>http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/Mza0MDIwMLY0MAEA/cc.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573157993-Imagen.png<>TRU TV HD<>http://ragnaroktv.com/hls_live/kr/TRU_TV_HD/Mza0MDIwMLY0MAEA/trutv_hd.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377479689-Imagen.jpg<>ID_HD<>http://ragnaroktv.com/hls_live/kr/ID_HD/Mza0MDIwMLY0MAEA/idhd.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572820434-Imagen.png<>DISCOVERY HOME HEALTH HD<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_HOME_HEALTH_HD/Mza0MDIwMLY0MAEA/disc_hh.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572897642-Imagen.png<>GOURMET HD<>http://ragnaroktv.com/hls_live/kr/GOURMET_HD/Mza0MDIwMLY0MAEA/elgourmet.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886990303-Imagen.png<>E ENTERTAINMET<>http://ragnaroktv.com/hls_live/kr/E/Mza0MDIwMLY0MAEA/e_ent.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506444993104-Imagen.jpg<>ESTRELLAS HD<>http://ragnaroktv.com/hls_live/kr/CANAL_DE_LAS_ESTRELLAS/Mza0MDIwMLY0MAEA/estrellas_latam.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487090234349-Imagen.png<>RCN TELENOVELAS<>http://ragnaroktv.com/hls_live/kr/RCN_TELENOVELAS/Mza0MDIwMLY0MAEA/rcn_tln.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png<>TELEMUNDO<>http://ragnaroktv.com/hls_live/kr/TELEMUNDO/Mza0MDIwMLY0MAEA/telemun_int.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055576209-Imagen.png<>UNICABLE<>http://ragnaroktv.com/hls_live/kr/UNICABLE/Mza0MDIwMLY0MAEA/unicable.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472074964273-Imagen.png<>CONCERT CHANNEL HD<>http://ragnaroktv.com/hls_live/kr/CONCERT_CHANNEL_HD/Mza0MDIwMLY0MAEA/concert.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581162485-Imagen.png<>HOLA TV HD<>http://ragnaroktv.com/hls_live/kr/HOLA_TV_HD/Mza0MDIwMLY0MAEA/hola.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581272504-Imagen.png<>SUNDANCE HD<>http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/Mza0MDIwMLY0MAEA/sundance.m3u8	 
-Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581359710-Imagen.png<>DHE HD<>http://ragnaroktv.com/hls_live/kr/DHE_HD/Mza0MDIwMLY0MAEA/dhe.m3u8	 
-Entretenimiento<>https://vignette.wikia.nocookie.net/logopedia/images/e/e7/LYisQ.png/revision/latest?cb=20151004063643&path-prefix=es<>The Film Zone<>http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/Mza0MDIwMLY0MAEA/fxm.m3u8	 
-Entretenimiento<>https://upload.wikimedia.org/wikipedia/commons/6/62/Aunde_hd.png<>AE HD<>http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/Mza0MDIwMLY0MAEA/aehd.m3u8	 
-Entretenimiento<>https://upload.wikimedia.org/wikipedia/commons/5/5f/2015_Caracol_TV_logo.svg<>Caracol<>http://ragnaroktv.com/hls_live/kr/CARACOL_HD/Mza0MDIwMLY0MAEA/caracol.m3u8	 
+Entretenimiento<>http://ragnaroktv.com/app/kodi/icon.png<>---------Donaciones Paypal---------<>http://ragnaroktv.com/1
+Entretenimiento<>http://ragnaroktv.com/app/kodi/icon.png<>------------http://paypal.me/ragnaroktv------------<>http://ragnaroktv.com/2
+Entretenimiento<><>TNT HD<>http://ragnaroktv.com/hls_live/kr/TNT_HD/Mza0MDIwMDMyNQYA/tnt.m3u8	
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099902532-Imagen.png<>Studio Universal<>http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/Mza0MDIwMDMyNQYA/stdio_univ.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901230151-Imagen.png<>Space HD<>http://ragnaroktv.com/hls_live/kr/SPACE_HD/Mza0MDIwMDMyNQYA/space.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901933899-Imagen.png<>AMC HD<>http://ragnaroktv.com/hls_live/kr/AMC_HD/Mza0MDIwMDMyNQYA/amc.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487024510541-Imagen.png<>CINEMAX<>http://ragnaroktv.com/hls_live/kr/CINEMAX/Mza0MDIwMDMyNQYA/c1nemax.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581305400-Imagen.png<>GOLDEN HD<>http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/Mza0MDIwMDMyNQYA/golden.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903283991-Imagen.png<>MULTIPREMIER<>http://ragnaroktv.com/hls_live/kr/MULTIPREMIER/Mza0MDIwMDMyNQYA/multipremier.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903394359-Imagen.png<>CINE LATINO<>http://ragnaroktv.com/hls_live/kr/CINELATINO/Mza0MDIwMDMyNQYA/cinelatino.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580335989-Imagen.png<>CINECANAL HD<>http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/Mza0MDIwMDMyNQYA/cinecanal.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903766643-Imagen.png<>CINEMA DINAMITA<>http://ragnaroktv.com/hls_live/kr/CINEMA_DINAMITA/Mza0MDIwMDMyNQYA/cinema_dinamita.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580395733-Imagen.png<>PARAMOUNT HD<>http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/Mza0MDIwMDMyNQYA/param.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471986058450-Imagen.png<>TBS HD<>http://ragnaroktv.com/hls_live/kr/TBS_HD/Mza0MDIwMDMyNQYA/tbs.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887162711-Imagen.png<>EURO CHANNEL<>http://ragnaroktv.com/hls_live/kr/EUROCHANNEL/Mza0MDIwMDMyNQYA/eurochannel.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099996739-Imagen.png<>DEPELICULA<>http://ragnaroktv.com/hls_live/kr/DEPELICULA/Mza0MDIwMDMyNQYA/depelicula.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473787057771-Imagen.png<>ISAT<>http://ragnaroktv.com/hls_live/kr/ISAT/Mza0MDIwMDMyNQYA/isat.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473877797392-Imagen.png<>TCM<>http://ragnaroktv.com/hls_live/kr/TCM/Mza0MDIwMDMyNQYA/tcm.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985648368-Imagen.png<>WARNER HD<>http://ragnaroktv.com/hls_live/kr/WARNER_HD/Mza0MDIwMDMyNQYA/warner.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985711231-Imagen.png<>AXN HD<>http://ragnaroktv.com/hls_live/kr/AXN_HD/Mza0MDIwMDMyNQYA/axn.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487089143442-Imagen.png<>SONY HD<>http://ragnaroktv.com/hls_live/kr/SONY_HD/Mza0MDIwMDMyNQYA/sony.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579684862-Imagen.png<>FOX HD<>http://ragnaroktv.com/hls_live/kr/FOX_HD/Mza0MDIwMDMyNQYA/f0x.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579731673-Imagen.png<>UNIVERSAL CHANNEL<>http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/Mza0MDIwMDMyNQYA/univers.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579768608-Imagen.png<>FX HD<>http://ragnaroktv.com/hls_live/kr/FX_HD/Mza0MDIwMDMyNQYA/fx.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579819006-Imagen.png<>FOX LIFE HD<>http://ragnaroktv.com/hls_live/kr/FOX_LIFE_HD/Mza0MDIwMDMyNQYA/f0xlife.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579907239-Imagen.png<>TNT SERIES HD<>http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/Mza0MDIwMDMyNQYA/tnt_ser.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580040425-Imagen.png<>COMEDY CENTRAL HD<>http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/Mza0MDIwMDMyNQYA/cc.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573157993-Imagen.png<>TRU TV HD<>http://ragnaroktv.com/hls_live/kr/TRU_TV_HD/Mza0MDIwMDMyNQYA/trutv_hd.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377479689-Imagen.jpg<>ID_HD<>http://ragnaroktv.com/hls_live/kr/ID_HD/Mza0MDIwMDMyNQYA/idhd.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572820434-Imagen.png<>DISCOVERY HOME HEALTH HD<>http://ragnaroktv.com/hls_live/kr/DISCOVERY_HOME_HEALTH_HD/Mza0MDIwMDMyNQYA/disc_hh.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572897642-Imagen.png<>GOURMET HD<>http://ragnaroktv.com/hls_live/kr/GOURMET_HD/Mza0MDIwMDMyNQYA/elgourmet.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886990303-Imagen.png<>E ENTERTAINMET<>http://ragnaroktv.com/hls_live/kr/E/Mza0MDIwMDMyNQYA/e_ent.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506444993104-Imagen.jpg<>ESTRELLAS HD<>http://ragnaroktv.com/hls_live/kr/CANAL_DE_LAS_ESTRELLAS/Mza0MDIwMDMyNQYA/estrellas_latam.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487090234349-Imagen.png<>RCN TELENOVELAS<>http://ragnaroktv.com/hls_live/kr/RCN_TELENOVELAS/Mza0MDIwMDMyNQYA/rcn_tln.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png<>TELEMUNDO<>http://ragnaroktv.com/hls_live/kr/TELEMUNDO/Mza0MDIwMDMyNQYA/telemun_int.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055576209-Imagen.png<>UNICABLE<>http://ragnaroktv.com/hls_live/kr/UNICABLE/Mza0MDIwMDMyNQYA/unicable.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472074964273-Imagen.png<>CONCERT CHANNEL HD<>http://ragnaroktv.com/hls_live/kr/CONCERT_CHANNEL_HD/Mza0MDIwMDMyNQYA/concert.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581162485-Imagen.png<>HOLA TV HD<>http://ragnaroktv.com/hls_live/kr/HOLA_TV_HD/Mza0MDIwMDMyNQYA/hola.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581272504-Imagen.png<>SUNDANCE HD<>http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/Mza0MDIwMDMyNQYA/sundance.m3u8	 
+Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581359710-Imagen.png<>DHE HD<>http://ragnaroktv.com/hls_live/kr/DHE_HD/Mza0MDIwMDMyNQYA/dhe.m3u8	 
+Entretenimiento<><>The Film Zone<>http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/Mza0MDIwMDMyNQYA/fxm.m3u8	 
+Entretenimiento<><>AE HD<>http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/Mza0MDIwMDMyNQYA/aehd.m3u8	 
+Entretenimiento<><>Caracol<>http://ragnaroktv.com/hls_live/kr/CARACOL_HD/Mza0MDIwMDMyNQYA/caracol.m3u8	 
 GROUP:Infantil
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886922885-Imagen.png<>DISNEY XD<>http://ragnaroktv.com/hls_live/kr/DISNEY_XD/Mza0MDIwMLY0MAEA/d1sneyxd.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572092429-Imagen.png<>CARTOON NETWORK HD<>http://ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/Mza0MDIwMLY0MAEA/cart_net.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581955384-Imagen.png<>DISNEY HD<>http://ragnaroktv.com/hls_live/kr/DISNEY_HD/Mza0MDIwMLY0MAEA/d1sney.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985041439-Imagen.png<>DISNEY JR<>http://ragnaroktv.com/hls_live/kr/DISNEY_JR/Mza0MDIwMLY0MAEA/d1sneyjr.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377273876-Imagen.jpg<>NICKELODEON HD<>http://ragnaroktv.com/hls_live/kr/NICKELODEON_HD/Mza0MDIwMLY0MAEA/nick.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572234457-Imagen.png<>BOOMERANG<>http://ragnaroktv.com/hls_live/kr/BOOMERANG/Mza0MDIwMLY0MAEA/boomerang.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055414268-Imagen.png<>TOONCAST<>http://ragnaroktv.com/hls_live/kr/TOONCAST/Mza0MDIwMLY0MAEA/tooncast.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505316301766-Imagen.jpg<>NATGEO KIDS HD<>http://ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/Mza0MDIwMLY0MAEA/natgeo_kids.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581038497-Imagen.png<>NICK 2 HD<>http://ragnaroktv.com/hls_live/kr/NICK_2_HD/Mza0MDIwMLY0MAEA/nick2.m3u8	 
-Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505316301766-Imagen.jpg<>Nat geo KIDS MX<>http://ragnaroktv.com/hls_live/kr/NATGEOKIDS_MX_HD/Mza0MDIwMLY0MAEA/natgeo_kids_mx.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886922885-Imagen.png<>DISNEY XD<>http://ragnaroktv.com/hls_live/kr/DISNEY_XD/Mza0MDIwMDMyNQYA/d1sneyxd.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572092429-Imagen.png<>CARTOON NETWORK HD<>http://ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/Mza0MDIwMDMyNQYA/cart_net.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581955384-Imagen.png<>DISNEY HD<>http://ragnaroktv.com/hls_live/kr/DISNEY_HD/Mza0MDIwMDMyNQYA/d1sney.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985041439-Imagen.png<>DISNEY JR<>http://ragnaroktv.com/hls_live/kr/DISNEY_JR/Mza0MDIwMDMyNQYA/d1sneyjr.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377273876-Imagen.jpg<>NICKELODEON HD<>http://ragnaroktv.com/hls_live/kr/NICKELODEON_HD/Mza0MDIwMDMyNQYA/nick.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572234457-Imagen.png<>BOOMERANG<>http://ragnaroktv.com/hls_live/kr/BOOMERANG/Mza0MDIwMDMyNQYA/boomerang.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055414268-Imagen.png<>TOONCAST<>http://ragnaroktv.com/hls_live/kr/TOONCAST/Mza0MDIwMDMyNQYA/tooncast.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505316301766-Imagen.jpg<>NATGEO KIDS HD<>http://ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/Mza0MDIwMDMyNQYA/natgeo_kids.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581038497-Imagen.png<>NICK 2 HD<>http://ragnaroktv.com/hls_live/kr/NICK_2_HD/Mza0MDIwMDMyNQYA/nick2.m3u8	 
+Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505316301766-Imagen.jpg<>Nat geo KIDS MX<>http://ragnaroktv.com/hls_live/kr/NATGEOKIDS_MX_HD/Mza0MDIwMDMyNQYA/natgeo_kids_mx.m3u8	 
 GROUP:Internacionales
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051831335-Imagen.png<>PASIONES HD<>http://ragnaroktv.com/hls_live/kr/PASIONES_HD/Mza0MDIwMLY0MAEA/pasiones.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581207166-Imagen.png<>AZMUNDO HD<>http://ragnaroktv.com/hls_live/kr/AZMUNDO_HD/Mza0MDIwMLY0MAEA/azmundo.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581240996-Imagen.png<>AZCORAZON HD<>http://ragnaroktv.com/hls_live/kr/AZCORAZON_HD/Mza0MDIwMLY0MAEA/azcorazon.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472056833591-Imagen.png<>TVE<>http://ragnaroktv.com/hls_live/kr/TVE/Mza0MDIwMLY0MAEA/tve.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887735895-Imagen.png<>RAI<>http://ragnaroktv.com/hls_live/kr/RAI/Mza0MDIwMLY0MAEA/rai.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887785942-Imagen.png<>TV5<>http://ragnaroktv.com/hls_live/kr/TV5/Mza0MDIwMLY0MAEA/tv5.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507136423580-Imagen.jpg<>DW<>http://ragnaroktv.com/hls_live/kr/DW/Mza0MDIwMLY0MAEA/dw.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472057666622-Imagen.png<>ANTENA3<>http://ragnaroktv.com/hls_live/kr/ANTENA3/Mza0MDIwMLY0MAEA/antena3.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1503518542263-Imagen.jpg<>CARACOL HD<>http://ragnaroktv.com/hls_live/kr/CARACOL_INT/Mza0MDIwMLY0MAEA/caracol_int.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167635321-Imagen.png<>CANAL UNO HD<>http://ragnaroktv.com/hls_live/kr/CANAL_UNO_HD/Mza0MDIwMLY0MAEA/uno.m3u8	 
-Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471991450604-Imagen.png<>CITY TV<>http://ragnaroktv.com/hls_live/kr/CITY_TV/Mza0MDIwMLY0MAEA/citytv.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051831335-Imagen.png<>PASIONES HD<>http://ragnaroktv.com/hls_live/kr/PASIONES_HD/Mza0MDIwMDMyNQYA/pasiones.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581207166-Imagen.png<>AZMUNDO HD<>http://ragnaroktv.com/hls_live/kr/AZMUNDO_HD/Mza0MDIwMDMyNQYA/azmundo.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581240996-Imagen.png<>AZCORAZON HD<>http://ragnaroktv.com/hls_live/kr/AZCORAZON_HD/Mza0MDIwMDMyNQYA/azcorazon.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472056833591-Imagen.png<>TVE<>http://ragnaroktv.com/hls_live/kr/TVE/Mza0MDIwMDMyNQYA/tve.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887735895-Imagen.png<>RAI<>http://ragnaroktv.com/hls_live/kr/RAI/Mza0MDIwMDMyNQYA/rai.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887785942-Imagen.png<>TV5<>http://ragnaroktv.com/hls_live/kr/TV5/Mza0MDIwMDMyNQYA/tv5.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507136423580-Imagen.jpg<>DW<>http://ragnaroktv.com/hls_live/kr/DW/Mza0MDIwMDMyNQYA/dw.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472057666622-Imagen.png<>ANTENA3<>http://ragnaroktv.com/hls_live/kr/ANTENA3/Mza0MDIwMDMyNQYA/antena3.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1503518542263-Imagen.jpg<>CARACOL HD<>http://ragnaroktv.com/hls_live/kr/CARACOL_INT/Mza0MDIwMDMyNQYA/caracol_int.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167635321-Imagen.png<>CANAL UNO HD<>http://ragnaroktv.com/hls_live/kr/CANAL_UNO_HD/Mza0MDIwMDMyNQYA/uno.m3u8	 
+Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471991450604-Imagen.png<>CITY TV<>http://ragnaroktv.com/hls_live/kr/CITY_TV/Mza0MDIwMDMyNQYA/citytv.m3u8	 
 GROUP:LATINO
+LATINO<><>Canal Sony<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/254.m3u8
+LATINO<><>Cinecanal<>https://bud122.budtv.tv/liverobos/cinecanal_p3/playlist.m3u8
+LATINO<><>Comedy Central<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/342.m3u8
+LATINO<><>Discovery World<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/323.m3u8
+LATINO<><>Fox HD<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/301.m3u8
+LATINO<><>Fox Action<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/307.m3u8
+LATINO<><>Fox Cinema<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/306.m3u8 
+LATINO<><>Fox Comedy<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/304.m3u8 
+LATINO<><>Fox Family<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/303.m3u8
+LATINO<><>Fox Live<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/298.m3u8 
+LATINO<><>Fox Movies<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/302.m3u8
+LATINO<><>Fox Sports<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/292.m3u8 
+LATINO<><>Fox Sports 2<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/295.m3u8 
+LATINO<><>Fox Sports 3<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/293.m3u8
+LATINO<><>HBO Latino<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/278.m3u8 
+LATINO<><>HBO 2<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/280.m3u8 
+LATINO<><>HBO Plus<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/276.m3u8 
+LATINO<><>HBO Family<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/279.m3u8 
+LATINO<><>HBO Signature<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/275.m3u8 
+LATINO<><>HBO Max<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/274.m3u8 
+LATINO<><>MTV<>https://bud122.budtv.tv/liverobos/mtv_p3/playlist.m3u8
+LATINO<><>MTV Hits<>https://bud122.budtv.tv/liverobos/mtv_hits_p3/playlist.m3u8 
+LATINO<><>Nat Geo<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/264.m3u8
+LATINO<><>Nat Geo Wild<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/262.m3u8 
+LATINO<><>VH1 Classic<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/1033.m3u8
+LATINO<><>Warner Channel<>http://live207.budtv.tv:8081/budtv/warney_bros_startv_119/playlist.m3u8
+LATINO<>https://i.imgur.com/xE51fHv.png<>America Teve<>http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 LATINO<>https://imgur.com/axvewxY.png<>Animax<>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 LATINO<>http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png<>CGTN<>http://livees.cgtn.com/1000e/prog_index.m3u8
 LATINO<>https://i.imgur.com/uXp0iUW.png<>Cuenca Vision<>http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 LATINO<>https://i.imgur.com/YEs2cGe.png<>Deutsche Welle<>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 LATINO<>https://imgur.com/1oapo3E.png<>El Chavo<>http://tecnotv.xyz/chavo.php
-LATINO<>http://www.gamba.fm/wp/wp-content/uploads/2017/09/Futurama.jpg<>Futurama VOD (New!)<>http://tecnotv.xyz/futurama.php
+LATINO<>http://www.gamba.fm/wp/wp-content/uploads/2017/09/Futurama.jpg<>Futurama VOD<>http://tecnotv.xyz/futurama.php
 LATINO<>https://i.imgur.com/lnRYeBB.png<>HispanTV<>http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 LATINO<>https://i.imgur.com/xsxgroC.png<>La Mega Mundial<>http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 LATINO<>https://i.imgur.com/etndUmR.png<>Latinos Up TV<>https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
 LATINO<>https://i.imgur.com/IYAUy9V.png<>Locomotion TV<>http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-LATINO<>https://imgur.com/0nU2hnl.png<>Los Simpsons 24/7<>https://59583158c050f.streamlock.net/7186/7186/playlist.m3u8
-LATINO<>http://www.fotogramas.es/var/ezflow_site/storage/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias_landscape.jpg<>Los Simpson VOD (New!)<>http://tecnotv.xyz/simpson.php
+LATINO<>http://www.fotogramas.es/var/ezflow_site/storage/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias_landscape.jpg<>Los Simpson VOD<>http://tecnotv.xyz/simpson.php
 LATINO<>https://i.imgur.com/K52brqr.png<>Melody Channel<>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 LATINO<>https://i.imgur.com/OFvdVlA.png<>RT<>https://secure-streams.akamaized.net/rt-esp/index.m3u8
-LATINO<>https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg<>Telemundo 51 Miami<>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+LATINO<>https://i.imgur.com/ZezMv3m.jpg<>Telemundo 51 Miami<>http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+LATINO<>https://i.imgur.com/I4IR9aj.png<>Telemundo 62 Philadelphia<>http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
 LATINO<>https://i.imgur.com/tHGr6ns.png<>Telemusica<>http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 LATINO<>https://i.imgur.com/VICta82.png<>TV Marti<>http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png<>UniMas<>http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png<>Univision (Opt-1)<>https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png<>Univision (Opt-2)<>http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png<>Univision<>http://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_1200_ipad.m3u8
 GROUP:MEXICO
+MEXICO<>https://i.imgur.com/vzTZCxv.png<>ADN 40 (Opt-1)<>http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 MEXICO<>https://i.imgur.com/vzTZCxv.png<>ADN 40 (Opt-2)<>http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+MEXICO<>https://i.imgur.com/CkGoWvx.png<>Aprende TV Mexico City<>http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
 MEXICO<>https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png<>Azteca 7<>http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 MEXICO<>http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png<>Azteca Uno<>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 MEXICO<>https://i.imgur.com/SY3a9yU.png<>Azteca Mas<>http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+MEXICO<>http://i63.tinypic.com/x5bjw6.jpg<>Banda Ancha<>https://banetworks.interactivemedia.com.mx/live/_definst_/ngrp:bandaancha_all/playlist.m3u8
+MEXICO<>https://vignette.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png<>Bandamax<>https://bud122.budtv.tv/liverobos/bandamax_p3/playlist.m3u8
 MEXICO<>http://www.c7jalisco.com/sites/default/files/logo%20web.jpg<>C7 Jalisco<>http://streamingcws10.com:1935/c7noticias/videoc7noticias/chunklist_w48198864_DVR.m3u8
+MEXICO<>https://i.imgur.com/eFfX2fC.jpg<>Canal 4 Saltillo<>http://162.241.190.126:1935/live/canal4/playlist.m3u8
+MEXICO<>https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png<>Canal 5 Mexico City<>http://live207.budtv.tv:8081/budtv/canal_5_masterbox_170/playlist.m3u8
 MEXICO<>https://i.imgur.com/RcHaKDY.png<>Canal 10 Cancun<>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 MEXICO<>http://www.tvdxtips.com/canal10chiapas2015.jpg<>Canal 10 Chiapas<>http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
 MEXICO<>https://i.imgur.com/qMgoMeO.png<>Canal 20 Zacatecas<>http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+MEXICO<>https://i.imgur.com/JaWSnGe.png<>Canal 22 Mexico City<>http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
 MEXICO<>https://i.imgur.com/9ggyiEM.png<>Canal 26 Aguascalientes<>http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 MEXICO<>https://i.imgur.com/xr4EiV2.png<>Canal del Congreso<>http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
 MEXICO<>https://i.imgur.com/PV6BVbi.png<>Canal Judicial<>http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 MEXICO<>https://i.imgur.com/AlG8pAu.png<>Canal Once Mexico City<>http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 MEXICO<>https://i.imgur.com/6xKwAuc.png<>Capital 21 Mexico City<>http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+MEXICO<>https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png<>Distrito Comedia<>https://bud122.budtv.tv/liverobos/distrito_comedia_p3/playlist.m3u8
 MEXICO<>https://i.imgur.com/y5vozsr.png<>Efekto TV<>http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
+MEXICO<>http://cdn2.gamedots.mx/media/gd/styles/gallerie/public/images/2016/01/espnesports.jpg<>ESPN<>https://robos2.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
 MEXICO<>https://i.imgur.com/xomvDm7.png<>FOROtv<>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 MEXICO<>https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg<>Gala TV Merida<>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 MEXICO<>https://i.imgur.com/xWYteYe.png<>Ingenio TV Mexico City<>http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
 MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas (Geo)<>http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/312.m3u8
 MEXICO<>https://i.imgur.com/vYoOv48.png<>Mexiquense Toluca<>http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
 MEXICO<>https://i.imgur.com/qcJ5lk3.png<>Milenio TV (Opt-1)<>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 MEXICO<>https://i.imgur.com/qcJ5lk3.png<>Milenio TV (Opt-2)<>https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
@@ -142,51 +179,57 @@ MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 1 Saltillo<>http://wowzacontrol.com
 MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 2 Saltillo<>http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 3 Saltillo<>http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 MEXICO<>https://i.imgur.com/Bfbjgfo.png<>RTG Guerrero<>http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+MEXICO<>https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Ritmoson_nuevo.png<>Ritmoson<>https://bud122.budtv.tv/liverobos/ritmoson_p3/playlist.m3u8
 MEXICO<>https://i.imgur.com/H1AFRJh.png<>RTQ Queretaro<>http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+MEXICO<>http://allvectorlogo.com/img/2016/07/televisa-deportes-network-tdn-logo.png<>TDN<>https://robos2.elrobacanales.com/budtv/Eventos_BudTv_TDN_StarTv_150/playlist.m3u8
+MEXICO<>http://fotos.e-consulta.com/telehit1_0.jpg<>TeleHit<>https://bud122.budtv.tv/liverobos/telehit_p3/playlist.m3u8
 MEXICO<>http://mediavyasa.mx/archivos/representantes/logo/logoteleformula.jpg<>Teleformula<>http://gformula.mmdlive.lldns.net/gformula/596433f167b64696bb03398fecdefbad/chunklist_b732000.m3u8
 MEXICO<>https://i.imgur.com/3orwGcy.png<>Telemar Campeche<>http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 MEXICO<>https://i.imgur.com/u4wj40K.jpg<>Telemax Sonora<>http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8
 MEXICO<>https://i.imgur.com/RWsmqRF.png<>Teleritmo<>http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 MEXICO<>https://i.imgur.com/DsVc3rO.png<>Tlaxcala TV<>http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-MEXICO<>http://i.televisa.com/2017/04/tlnovelas2016_main_color.jpg<>Tlnovelas<>http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/index.m3u8
+MEXICO<>http://www.transmediatelevision.com/wp-content/uploads/2017/05/logotransmedia-01-1.png<>Transmedia TV Morelia<>http://st2.worldkast.com/8022/smil:8022.smil/playlist.m3u8
 MEXICO<>https://i.imgur.com/AfSXooZ.png<>TvAcapulco<>http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
 MEXICO<>https://i.imgur.com/0HnNJKm.png<>TVMAS Veracruz<>http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+MEXICO<>https://i.imgur.com/FqtpjZs.jpg<>TVP Mazatlan<>https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 MEXICO<>https://i.imgur.com/KJcg1FB.jpg<>TV Cuatro 4.1 Guanajuato<>https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
 MEXICO<>https://i.imgur.com/FQxBTB9.png<>TV Cuatro 4.2 Guanajuato<>https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
 MEXICO<>https://i.imgur.com/unesBrV.png<>Ultra TV Puebla<>https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 MEXICO<>https://i.imgur.com/unesBrV.png<>Ultra TV Aguascalientes<>https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+MEXICO<>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uno_tv.jpg/245px-Uno_tv.jpg<>Uno TV (VOD)<>http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 GROUP:Musica
 Musica<>http://chileiptv.cl/img/logos/file_1492005143.png<>Contivision Musica <>http://movilstream.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/chunklist_w205005636_b1428000.m3u8
 Musica<>https://i.imgur.com/MCGNAMK.png<>Musica Urbana<>https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1486494802721-Imagen.png<>MTV HD<>http://ragnaroktv.com/hls_live/kr/MTV_HD/Mza0MDIwMLY0MAEA/mtvhd.m3u8	 
-Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580515540-Imagen.png<>MTV_LIVE_HD<>http://ragnaroktv.com/hls_live/kr/MTV_LIVE_HD/Mza0MDIwMLY0MAEA/mtvl1ve.m3u8	 
-Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887355106-Imagen.png<>VH1<>http://ragnaroktv.com/hls_live/kr/VH1/Mza0MDIwMLY0MAEA/vh1.m3u8	 
-Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580474752-Imagen.png<>VH1 HD<>http://ragnaroktv.com/hls_live/kr/VH1_HD/Mza0MDIwMLY0MAEA/vh1hd.m3u8	 
-Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473872881661-Imagen.png<>VH1 CLASSIC<>http://ragnaroktv.com/hls_live/kr/VH1_CLASSIC/Mza0MDIwMLY0MAEA/vh1class.m3u8	 
-Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788338549-Imagen.png<>MTV HITS<>http://ragnaroktv.com/hls_live/kr/MTV_HITS/Mza0MDIwMLY0MAEA/mtvh.m3u8	 
+Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1486494802721-Imagen.png<>MTV HD<>http://ragnaroktv.com/hls_live/kr/MTV_HD/Mza0MDIwMDMyNQYA/mtvhd.m3u8	 
+Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580515540-Imagen.png<>MTV_LIVE_HD<>http://ragnaroktv.com/hls_live/kr/MTV_LIVE_HD/Mza0MDIwMDMyNQYA/mtvl1ve.m3u8	 
+Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887355106-Imagen.png<>VH1<>http://ragnaroktv.com/hls_live/kr/VH1/Mza0MDIwMDMyNQYA/vh1.m3u8	 
+Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580474752-Imagen.png<>VH1 HD<>http://ragnaroktv.com/hls_live/kr/VH1_HD/Mza0MDIwMDMyNQYA/vh1hd.m3u8	 
+Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473872881661-Imagen.png<>VH1 CLASSIC<>http://ragnaroktv.com/hls_live/kr/VH1_CLASSIC/Mza0MDIwMDMyNQYA/vh1class.m3u8	 
+Musica<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788338549-Imagen.png<>MTV HITS<>http://ragnaroktv.com/hls_live/kr/MTV_HITS/Mza0MDIwMDMyNQYA/mtvh.m3u8	 
 GROUP:Noticias
 Noticias<>https://i.imgur.com/WT0Pe6k.png<>Qm Noticias<>http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
 Noticias<>https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg<>TV Noticias 7.3<>http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
-Noticias<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573359026-Imagen.png<>CABLENOTICIAS HD<>http://ragnaroktv.com/hls_live/kr/CABLENOTICIAS_HD/Mza0MDIwMLY0MAEA/cablenoticias.m3u8	 
-Noticias<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377651117-Imagen.jpg<>CNN ESPANOL<>http://ragnaroktv.com/hls_live/kr/CNN_ESPANOL/Mza0MDIwMLY0MAEA/cnnee.m3u8	 
+Noticias<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573359026-Imagen.png<>CABLENOTICIAS HD<>http://ragnaroktv.com/hls_live/kr/CABLENOTICIAS_HD/Mza0MDIwMDMyNQYA/cablenoticias.m3u8	 
+Noticias<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377651117-Imagen.jpg<>CNN ESPANOL<>http://ragnaroktv.com/hls_live/kr/CNN_ESPANOL/Mza0MDIwMDMyNQYA/cnnee.m3u8	 
 GROUP:Premium
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505946140111-Imagen.jpg<>HBO HD SUB<>http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/Mza0MDIwMLY0MAEA/hbohd_sub.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876420732-Imagen.jpg<>HBO 2 HD<>http://ragnaroktv.com/hls_live/kr/HBO_2_HD/Mza0MDIwMLY0MAEA/hb02.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876486946-Imagen.jpg<>HBO FAMILY HD<>http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/Mza0MDIwMLY0MAEA/hb0fam.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147061098-Imagen.jpg<>HBO PLUS HD<>http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/Mza0MDIwMLY0MAEA/hboplus.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876539813-Imagen.jpg<>HBO SIGNATURE HD<>http://ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/Mza0MDIwMLY0MAEA/hbosign.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876603797-Imagen.jpg<>MAX PRIME HD<>http://ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/Mza0MDIwMLY0MAEA/m4x_prime.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876345319-Imagen.jpg<>MAX UP HD<>http://ragnaroktv.com/hls_live/kr/MAX_UP_HD/Mza0MDIwMLY0MAEA/m4xup.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147780331-Imagen.jpg<>FOX CINEMA HD<>http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/Mza0MDIwMLY0MAEA/f0x_cinema_sub.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147558092-Imagen.jpg<>FOX ACTION MX<>http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/Mza0MDIwMLY0MAEA/fox_action_mx.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147558092-Imagen.jpg<>FOXACTION HD<>http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/Mza0MDIwMLY0MAEA/foxaction.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147201257-Imagen.jpg<>FOXMOVIES HD<>http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/Mza0MDIwMLY0MAEA/f0x_movies.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147589162-Imagen.jpg<>FOX CLASSICS HD<>http://ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/Mza0MDIwMLY0MAEA/f0x_classics.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147642766-Imagen.jpg<>FOX COMEDY HD<>http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/Mza0MDIwMLY0MAEA/f0x_comedy.m3u8	 
-Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147328276-Imagen.jpg<>FOXFAMILY HD<>http://ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/Mza0MDIwMLY0MAEA/f0x_family.m3u8	 
-Premium<>http://media.revistasenal.com/wp-content/uploads/2014/07/golden-premier-ya-esta-presente-en-16-paises-america-latina.jpg<>GOLDEN PREMIER HD<>http://ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/Mza0MDIwMLY0MAEA/goldp.m3u8	 
-Premium<>https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg<>Fox Cinema<>http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/Mza0MDIwMLY0MAEA/f0x_cinema.m3u8	 
-Premium<>https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png<>Fox Series<>http://ragnaroktv.com/hls_live/kr/FOX1_HD/Mza0MDIwMLY0MAEA/f0x_series.m3u8	
+Premium<>https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png<>~ Latino Premium ~<>http://50.7.56.2:8016
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505946140111-Imagen.jpg<>HBO HD SUB<>http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/Mza0MDIwMDMyNQYA/hbohd_sub.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876420732-Imagen.jpg<>HBO 2 HD<>http://ragnaroktv.com/hls_live/kr/HBO_2_HD/Mza0MDIwMDMyNQYA/hb02.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876486946-Imagen.jpg<>HBO FAMILY HD<>http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/Mza0MDIwMDMyNQYA/hb0fam.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147061098-Imagen.jpg<>HBO PLUS HD<>http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/Mza0MDIwMDMyNQYA/hboplus.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876539813-Imagen.jpg<>HBO SIGNATURE HD<>http://ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/Mza0MDIwMDMyNQYA/hbosign.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876603797-Imagen.jpg<>MAX PRIME HD<>http://ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/Mza0MDIwMDMyNQYA/m4x_prime.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876345319-Imagen.jpg<>MAX UP HD<>http://ragnaroktv.com/hls_live/kr/MAX_UP_HD/Mza0MDIwMDMyNQYA/m4xup.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147780331-Imagen.jpg<>FOX CINEMA HD<>http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/Mza0MDIwMDMyNQYA/f0x_cinema_sub.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147558092-Imagen.jpg<>FOX ACTION MX<>http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/Mza0MDIwMDMyNQYA/fox_action_mx.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147558092-Imagen.jpg<>FOXACTION HD<>http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/Mza0MDIwMDMyNQYA/foxaction.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147201257-Imagen.jpg<>FOXMOVIES HD<>http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/Mza0MDIwMDMyNQYA/f0x_movies.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147589162-Imagen.jpg<>FOX CLASSICS HD<>http://ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/Mza0MDIwMDMyNQYA/f0x_classics.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147642766-Imagen.jpg<>FOX COMEDY HD<>http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/Mza0MDIwMDMyNQYA/f0x_comedy.m3u8	 
+Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147328276-Imagen.jpg<>FOXFAMILY HD<>http://ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/Mza0MDIwMDMyNQYA/f0x_family.m3u8	 
+Premium<><>GOLDEN PREMIER HD<>http://ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/Mza0MDIwMDMyNQYA/goldp.m3u8	 
+Premium<><>Fox Cinema<>http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/Mza0MDIwMDMyNQYA/f0x_cinema.m3u8	 
+Premium<><>Fox Series<>http://ragnaroktv.com/hls_live/kr/FOX1_HD/Mza0MDIwMDMyNQYA/f0x_series.m3u8	
 GROUP:SPAIN
 SPAIN<>http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg<>7 Murcia<>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 SPAIN<>http://files.ondalitoralcadiz.webnode.es/200000217-c70eac80a6/DJUETRYUERT.jpg<>8 Cadiz TV<>http://cls.todostreaming.eu/unatv/live/playlist.m3u8
@@ -199,17 +242,20 @@ SPAIN<>https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_atv.jpg<>Andorra T
 SPAIN<>http://elpoderdelespiritu.com/channels/antena3.png<>Antena 3<>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 SPAIN<>http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png<>Aragon TV<>http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 SPAIN<>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png<>Atreseries<>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+SPAIN<>https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_SPORTS_Spain_logo_2017.jpg<>beIN Sports (Opt-1)<>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+SPAIN<>https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_SPORTS_Spain_logo_2017.jpg<>beIN Sports (Opt-2)<>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+SPAIN<>https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_SPORTS_Spain_logo_2017.jpg<>beIN Sports (Opt-3)<>http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
 SPAIN<>http://www.brandemia.org/sites/default/files/inline/images/beteve_logo_despues.jpg<>Beteve<>http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 SPAIN<>http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg<>Boing<>https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_4.m3u8
 SPAIN<>https://i.imgur.com/7C9rreQ.png<>Calle 13<>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 SPAIN<>http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg<>Canal 4 Centro Mancha<>http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
 SPAIN<>http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png<>Canal 4 Tenerife<>https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-SPAIN<>https://i.imgur.com/kLzKyaA.jpg<>Canal 24 Horas (New!)<>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+SPAIN<>https://i.imgur.com/kLzKyaA.jpg<>Canal 24 Horas<>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 SPAIN<>http://www.canal25tv.es/images/template-content/untitled.png<>Canal 25<>http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 SPAIN<>http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png<>Canal Extremadura<>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 SPAIN<>http://www.geogebra.es/cvg/banco/img/logos/andalucia_tv.png<>Canal Sur Cocina<>http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
 SPAIN<>https://i1.wp.com/blogs.canalsur.es/saladeprensa/files/11_16_16_flamencoradio5-e1479209627998.jpg<>Canal Sur Flamenco<>http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-SPAIN<>http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg<>Canal Parlamento<>http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
+SPAIN<>http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg<>Canal Parlamento (Updated)<>http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
 SPAIN<>https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png<>Canaria SAT<>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 SPAIN<>https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png<>Canaria SAT*<>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 SPAIN<>http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg<>Castilla-La Mancha TV<>http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
@@ -231,18 +277,30 @@ SPAIN<>https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg<>HTV
 SPAIN<>http://vignette2.wikia.nocookie.net/logopedia/images/6/62/IB3_logo_2008_1.jpg<>IB3<>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
 SPAIN<>http://www.imastv.es/imagenes/logos/CABEZERA%20WEB%201.png<>Imas TV<>http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
 SPAIN<>http://www.informaciontv.es/elementosWeb/version5_20090902/mediaweb/images/logoInfTV.jpg<>Informacion TV<>http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-SPAIN<>https://i.imgur.com/UpqhqzL.jpg<>La Liga TV<>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+SPAIN<>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png<>La 2<>http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+SPAIN<>https://i1.wp.com/blogs.canalsur.es/saladeprensa/files/banda_nuevo_04.jpg<>La Banda<>http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
+SPAIN<>https://i.imgur.com/UpqhqzL.jpg<>La Liga TV (Opt-1)<>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+SPAIN<>https://i.imgur.com/UpqhqzL.jpg<>La Liga TV (Opt-2)<>http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+SPAIN<>https://i.imgur.com/UpqhqzL.jpg<>La Liga TV (Opt-3)<>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+SPAIN<>https://i.imgur.com/UpqhqzL.jpg<>La Liga TV (Opt-4)<>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
 SPAIN<>http://www.cablevisionguadalquivir.com/wp-content/uploads/2014/11/laotra-455x250.jpg<>La Otra<>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 SPAIN<>http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg<>La Sexta<>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 SPAIN<>https://upload.wikimedia.org/wikipedia/ca/b/bc/COMR%C3%A0dio_logo_2012.jpg<>La Xarxa<>http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 SPAIN<>http://www.lancelot.tv/lancelot.jpg<>Lancelot TV<>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 SPAIN<>http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png<>Lebrija TV<>http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 SPAIN<>http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg<>Levante TV<>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+SPAIN<>https://i.imgur.com/s6HpNzd.png<>LifeTV<>http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
 SPAIN<>http://channelpear.com/images/media/14839.jpg<>Mega<>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 SPAIN<>http://media.tvalacarta.info/canales/256x256/tvmelilla.png<>Melilla TV<>http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
 SPAIN<>https://i.vimeocdn.com/portrait/2838028_300x300<>Mirame TV<>http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
+SPAIN<>http://www.tendencias21.net/telefonica/photo/art/default/6406106-9663804.jpg<>Movistar Formula 1 (Opt-1)<>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+SPAIN<>http://www.tendencias21.net/telefonica/photo/art/default/6406106-9663804.jpg<>Movistar Formula 1 (Opt-2)<>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+SPAIN<>http://www.tendencias21.net/telefonica/photo/art/default/6406106-9663804.jpg<>Movistar Formula 1 (Opt-3)<>http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+SPAIN<>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png<>Movistar Futbol (Opt-1)<>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+SPAIN<>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/1200px-Movistar_Fútbol.svg.png<>Movistar Futbol (Opt-2)<>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+SPAIN<>https://i.imgur.com/DnTCqMT.png<>Movistar Golf (Opt-1)<>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+SPAIN<>https://i.imgur.com/DnTCqMT.png<>Movistar Golf (Opt-2)<>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
 SPAIN<>https://i.imgur.com/RvUxWgn.png<>Movistar MotoGP<>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
-SPAIN<>https://i.imgur.com/DnTCqMT.png<>Movistar Golf<>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 SPAIN<>http://sergioalvarezweb.hol.es/img/navarratv.png<>Navarra TV (Opt-1)<>http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 SPAIN<>http://sergioalvarezweb.hol.es/img/navarratv.png<>Navarra TV (Opt-2)<>http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 SPAIN<>http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png<>Neox<>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -273,6 +331,7 @@ SPAIN<>http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg<>Tele
 SPAIN<>http://s03.s3c.es/imag/_v0/640x300/8/1/f/telemadridrecursonuevo.jpg<>Telemadrid<>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 SPAIN<>http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png<>TeleSafor<>http://video.telesafor.com/hls/video_low.m3u8
 SPAIN<>http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png<>TeleValencia<>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+SPAIN<>https://vignette.wikia.nocookie.net/logopedia/images/5/51/TorosTV2016.png<>Toros TV<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/874.m3u8
 SPAIN<>http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg<>TV3 (Opt-1)<>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 SPAIN<>http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg<>TV3 (Opt-2)<>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
 SPAIN<>https://lh5.googleusercontent.com/-9PLgxPlDPwI/UJuu6yeS7WI/AAAAAAAAAXI/EMp3l9mR8LQ/s800/Teve4-LaVall_logo.jpg<>TV4 La Vall<>http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
