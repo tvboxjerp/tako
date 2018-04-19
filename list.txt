@@ -99,8 +99,7 @@ LATINO<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580040425-Im
 LATINO<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572442553-Imagen.png<>Discovery World<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/323.m3u8
 LATINO<>https://cms.cignal.tv/Upload/Images/FOX-HD.png<>Fox HD<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/301.m3u8
 LATINO<>https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png<>Fox Action<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/307.m3u8
-LATINO<> https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg
-<>Fox Cinema<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/306.m3u8 
+LATINO<>https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg<>Fox Cinema<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/306.m3u8 
 LATINO<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147642766-Imagen.jpg<>Fox Comedy<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/304.m3u8 
 LATINO<>http://images.mi.tv/channels/cl_fox-family_m.png<>Fox Family<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/303.m3u8
 LATINO<>https://movistar.i.lithium.com/t5/image/serverpage/image-id/79705i45648B7B51A6DDEF?v=1.0<>Fox Live<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/298.m3u8 
