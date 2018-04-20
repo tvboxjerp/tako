@@ -26,7 +26,7 @@ Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788260677-
 Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573629563-Imagen.png<>FOX Sports 2 MX HD<>http://ragnaroktv.com/hls_live/kr/FOXSP2_MX_HD/Mza0MDIwMDMyNQYA/f0xsports2mx.m3u8	 
 Deportes<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573587778-Imagen.png<>Fox Sports MX HD<>http://ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/Mza0MDIwMDMyNQYA/f0xsportsmx.m3u8	 
 GROUP:Entretenimiento
-Entretenimiento<>https://vignette.wikia.nocookie.net/es.starwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033<>TNT HD<>http://ragnaroktv.com/hls_live/kr/TNT_HD/Mza0MDIwMDMyNQYA/tnt.m3u8	
+Entretenimiento<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>TNT HD<>http://ragnaroktv.com/hls_live/kr/TNT_HD/Mza0MDIwMDMyNQYA/tnt.m3u8	
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099902532-Imagen.png<>Studio Universal<>http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/Mza0MDIwMDMyNQYA/stdio_univ.m3u8	 
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901230151-Imagen.png<>Space HD<>http://ragnaroktv.com/hls_live/kr/SPACE_HD/Mza0MDIwMDMyNQYA/space.m3u8	 
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901933899-Imagen.png<>AMC HD<>http://ragnaroktv.com/hls_live/kr/AMC_HD/Mza0MDIwMDMyNQYA/amc.m3u8	 
@@ -64,9 +64,9 @@ Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472074
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581162485-Imagen.png<>HOLA TV HD<>http://ragnaroktv.com/hls_live/kr/HOLA_TV_HD/Mza0MDIwMDMyNQYA/hola.m3u8	 
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581272504-Imagen.png<>SUNDANCE HD<>http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/Mza0MDIwMDMyNQYA/sundance.m3u8	 
 Entretenimiento<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581359710-Imagen.png<>DHE HD<>http://ragnaroktv.com/hls_live/kr/DHE_HD/Mza0MDIwMDMyNQYA/dhe.m3u8	 
-Entretenimiento<>https://vignette.wikia.nocookie.net/es.starwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033<>The Film Zone<>http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/Mza0MDIwMDMyNQYA/fxm.m3u8	 
-Entretenimiento<>https://commons.wikimedia.org/wiki/File:Aunde_hd.png<>AE HD<>http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/Mza0MDIwMDMyNQYA/aehd.m3u8	 
-Entretenimiento<>https://upload.wikimedia.org/wikipedia/commons/5/5f/2015_Caracol_TV_logo.svg<>Caracol<>http://ragnaroktv.com/hls_live/kr/CARACOL_HD/Mza0MDIwMDMyNQYA/caracol.m3u8	 
+Entretenimiento<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>The Film Zone<>http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/Mza0MDIwMDMyNQYA/fxm.m3u8	 
+Entretenimiento<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>AE HD<>http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/Mza0MDIwMDMyNQYA/aehd.m3u8	 
+Entretenimiento<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Caracol<>http://ragnaroktv.com/hls_live/kr/CARACOL_HD/Mza0MDIwMDMyNQYA/caracol.m3u8	 
 GROUP:Infantil
 Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886922885-Imagen.png<>DISNEY XD<>http://ragnaroktv.com/hls_live/kr/DISNEY_XD/Mza0MDIwMDMyNQYA/d1sneyxd.m3u8	 
 Infantil<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572092429-Imagen.png<>CARTOON NETWORK HD<>http://ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/Mza0MDIwMDMyNQYA/cart_net.m3u8	 
@@ -91,32 +91,32 @@ Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1503518
 Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167635321-Imagen.png<>CANAL UNO HD<>http://ragnaroktv.com/hls_live/kr/CANAL_UNO_HD/Mza0MDIwMDMyNQYA/uno.m3u8	 
 Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471991450604-Imagen.png<>CITY TV<>http://ragnaroktv.com/hls_live/kr/CITY_TV/Mza0MDIwMDMyNQYA/citytv.m3u8	 
 GROUP:LATINO
-LATINO<>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O6POn6ScVOXY3OISg8JZQO4O4c3USXlVn5w7sEnyGN5EX-RL<>Canal Sony<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/254.m3u8
-LATINO<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580335989-Imagen.png<>Cinecanal<>https://bud122.budtv.tv/liverobos/cinecanal_p3/playlist.m3u8
-LATINO<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580040425-Imagen.png<>Comedy Central<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/342.m3u8
-LATINO<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572442553-Imagen.png<>Discovery World<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/323.m3u8
-LATINO<>https://cms.cignal.tv/Upload/Images/FOX-HD.png<>Fox HD<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/301.m3u8
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png<>Fox Action<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/307.m3u8
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg<>Fox Cinema<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/306.m3u8 
-LATINO<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147642766-Imagen.jpg<>Fox Comedy<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/304.m3u8 
-LATINO<>http://images.mi.tv/channels/cl_fox-family_m.png<>Fox Family<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/303.m3u8
-LATINO<>https://movistar.i.lithium.com/t5/image/serverpage/image-id/79705i45648B7B51A6DDEF?v=1.0<>Fox Live<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/298.m3u8 
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg<>Fox Movies<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/302.m3u8
-LATINO<>https://play.foxsportsla.com/assets/images/Logo-FS.png<>Fox Sports<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/292.m3u8 
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png<>Fox Sports 2<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/295.m3u8 
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png<>Fox Sports 3<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/293.m3u8
-LATINO<>https://pbs.twimg.com/profile_images/948952917645475840/-ZtDt2Ar_400x400.jpg<>HBO Latino<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/278.m3u8 
-LATINO<>http://images.mi.tv/channels/mx_hbo-2_m.png<>HBO 2<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/280.m3u8 
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png<>HBO Plus<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/276.m3u8 
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png<>HBO Family<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/279.m3u8 
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png<>HBO Signature<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/275.m3u8 
-LATINO<>http://forounivers.com/uploads/monthly_2017_08/image.png.5935037d8d588720a69ccb190ccd94b9.png<>HBO Max<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/274.m3u8 
-LATINO<>https://www.digitaltveurope.com/files/2015/06/MTV_Logo.svg_1.png<>MTV<>https://bud122.budtv.tv/liverobos/mtv_p3/playlist.m3u8
-LATINO<>http://images.mi.tv/channels/ar_mtv-hits_m.png<>MTV Hits<>https://bud122.budtv.tv/liverobos/mtv_hits_p3/playlist.m3u8 
-LATINO<>https://i2.wp.com/masoportunidades.org/wp-content/uploads/2016/05/National-Geographic-logo.png?resize=300%2C225<>Nat Geo<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/264.m3u8
-LATINO<>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png<>Nat Geo Wild<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/262.m3u8 
-LATINO<>http://www.direct-vs-dish.com/media/channel_logos/vh1_classic_us.png.300x300_q85.jpg<>VH1 Classic<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/1033.m3u8
-LATINO<>https://cdn.worldvectorlogo.com/logos/warner-channel.svg<>Warner Channel<>http://live207.budtv.tv:8081/budtv/warney_bros_startv_119/playlist.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Canal Sony<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/254.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Cinecanal<>https://bud122.budtv.tv/liverobos/cinecanal_p3/playlist.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Comedy Central<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/342.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Discovery World<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/323.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox HD<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/301.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Action<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/307.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Cinema<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/306.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Comedy<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/304.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Family<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/303.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Live<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/298.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Movies<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/302.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Sports<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/292.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Sports 2<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/295.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Sports 3<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/293.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>HBO Latino<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/278.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>HBO 2<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/280.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>HBO Plus<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/276.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>HBO Family<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/279.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>HBO Signature<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/275.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>HBO Max<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/274.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>MTV<>https://bud122.budtv.tv/liverobos/mtv_p3/playlist.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>MTV Hits<>https://bud122.budtv.tv/liverobos/mtv_hits_p3/playlist.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Nat Geo<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/264.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Nat Geo Wild<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/262.m3u8 
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>VH1 Classic<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/1033.m3u8
+LATINO<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Warner Channel<>http://live207.budtv.tv:8081/budtv/warney_bros_startv_119/playlist.m3u8
 LATINO<>https://i.imgur.com/xE51fHv.png<>America Teve<>http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 LATINO<>https://imgur.com/axvewxY.png<>Animax<>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 LATINO<>http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png<>CGTN<>http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -225,9 +225,9 @@ Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147201257-I
 Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147589162-Imagen.jpg<>FOX CLASSICS HD<>http://ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/Mza0MDIwMDMyNQYA/f0x_classics.m3u8	 
 Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147642766-Imagen.jpg<>FOX COMEDY HD<>http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/Mza0MDIwMDMyNQYA/f0x_comedy.m3u8	 
 Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147328276-Imagen.jpg<>FOXFAMILY HD<>http://ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/Mza0MDIwMDMyNQYA/f0x_family.m3u8	 
-Premium<>http://media.revistasenal.com/wp-content/uploads/2014/07/golden-premier-ya-esta-presente-en-16-paises-america-latina.jpg<>GOLDEN PREMIER HD<>http://ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/Mza0MDIwMDMyNQYA/goldp.m3u8	 
-Premium<>https://upload.wikimedia.org/wikipedia/commons/9/93/Fox_Movies_%28Asia%29_logo.svg<>Fox Cinema<>http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/Mza0MDIwMDMyNQYA/f0x_cinema.m3u8	 
-Premium<>https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png<>Fox Series<>http://ragnaroktv.com/hls_live/kr/FOX1_HD/Mza0MDIwMDMyNQYA/f0x_series.m3u8	
+Premium<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>GOLDEN PREMIER HD<>http://ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/Mza0MDIwMDMyNQYA/goldp.m3u8	 
+Premium<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Cinema<>http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/Mza0MDIwMDMyNQYA/f0x_cinema.m3u8	 
+Premium<>http://cdn7.bigcommerce.com/s-viqdwewl26/stencil/8f903ed0-76e7-0135-12e4-525400970412/icons/icon-no-image.svg<>Fox Series<>http://ragnaroktv.com/hls_live/kr/FOX1_HD/Mza0MDIwMDMyNQYA/f0x_series.m3u8	
 GROUP:SPAIN
 SPAIN<>http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg<>7 Murcia<>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 SPAIN<>http://files.ondalitoralcadiz.webnode.es/200000217-c70eac80a6/DJUETRYUERT.jpg<>8 Cadiz TV<>http://cls.todostreaming.eu/unatv/live/playlist.m3u8
