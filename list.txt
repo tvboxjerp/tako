@@ -92,7 +92,6 @@ Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1503518
 Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167635321-Imagen.png<>CANAL UNO HD<>http://ragnaroktv.com/hls_live/kr/CANAL_UNO_HD/Mza0MDIwMDE1MgEA/uno.m3u8	 
 Internacionales<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471991450604-Imagen.png<>CITY TV<>http://ragnaroktv.com/hls_live/kr/CITY_TV/Mza0MDIwMDE1MgEA/citytv.m3u8	 
 GROUP:LATINO
-LATINO<>https://i.imgur.com/xE51fHv.png<>America Teve<>http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 LATINO<>https://imgur.com/axvewxY.png<>Animax<>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 LATINO<>http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png<>CGTN<>http://livees.cgtn.com/1000e/prog_index.m3u8
 LATINO<>https://i.imgur.com/uXp0iUW.png<>Cuenca Vision<>http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
@@ -120,10 +119,8 @@ MEXICO<>https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png<>A
 MEXICO<>http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png<>Azteca Uno<>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 MEXICO<>https://i.imgur.com/SY3a9yU.png<>Azteca Mas<>http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 MEXICO<>http://i63.tinypic.com/x5bjw6.jpg<>Banda Ancha<>https://banetworks.interactivemedia.com.mx/live/_definst_/ngrp:bandaancha_all/playlist.m3u8
-MEXICO<>https://vignette.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png<>Bandamax<>https://bud122.budtv.tv/liverobos/bandamax_p3/playlist.m3u8
 MEXICO<>http://www.c7jalisco.com/sites/default/files/logo%20web.jpg<>C7 Jalisco<>http://streamingcws10.com:1935/c7noticias/videoc7noticias/chunklist_w48198864_DVR.m3u8
 MEXICO<>https://i.imgur.com/eFfX2fC.jpg<>Canal 4 Saltillo<>http://162.241.190.126:1935/live/canal4/playlist.m3u8
-MEXICO<>https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png<>Canal 5 Mexico City<>http://live207.budtv.tv:8081/budtv/canal_5_masterbox_170/playlist.m3u8
 MEXICO<>https://i.imgur.com/RcHaKDY.png<>Canal 10 Cancun<>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 MEXICO<>http://www.tvdxtips.com/canal10chiapas2015.jpg<>Canal 10 Chiapas<>http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
 MEXICO<>https://i.imgur.com/qMgoMeO.png<>Canal 20 Zacatecas<>http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
@@ -133,14 +130,13 @@ MEXICO<>https://i.imgur.com/xr4EiV2.png<>Canal del Congreso<>http://live10.cdnme
 MEXICO<>https://i.imgur.com/PV6BVbi.png<>Canal Judicial<>http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 MEXICO<>https://i.imgur.com/AlG8pAu.png<>Canal Once Mexico City<>http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 MEXICO<>https://i.imgur.com/6xKwAuc.png<>Capital 21 Mexico City<>http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-MEXICO<>https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png<>Distrito Comedia<>https://bud122.budtv.tv/liverobos/distrito_comedia_p3/playlist.m3u8
 MEXICO<>https://i.imgur.com/y5vozsr.png<>Efekto TV<>http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
-MEXICO<>http://cdn2.gamedots.mx/media/gd/styles/gallerie/public/images/2016/01/espnesports.jpg<>ESPN<>https://robos2.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
+MEXICO<>https://i.imgur.com/o0QPYWI.jpg<>ESPN<>https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
+MEXICO<>https://i.imgur.com/S3864KL.jpg<>Fighting Sports Network<>https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
 MEXICO<>https://i.imgur.com/xomvDm7.png<>FOROtv<>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 MEXICO<>https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg<>Gala TV Merida<>http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 MEXICO<>https://i.imgur.com/xWYteYe.png<>Ingenio TV Mexico City<>http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
 MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas (Geo)<>http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
-MEXICO<>https://i.imgur.com/8kw91e7.png<>Las Estrellas<>http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/312.m3u8
 MEXICO<>https://i.imgur.com/vYoOv48.png<>Mexiquense Toluca<>http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
 MEXICO<>https://i.imgur.com/qcJ5lk3.png<>Milenio TV (Opt-1)<>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 MEXICO<>https://i.imgur.com/qcJ5lk3.png<>Milenio TV (Opt-2)<>https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
@@ -153,16 +149,14 @@ MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 1 Saltillo<>http://wowzacontrol.com
 MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 2 Saltillo<>http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 MEXICO<>https://i.imgur.com/hzJu6QT.png<>RCG 3 Saltillo<>http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 MEXICO<>https://i.imgur.com/Bfbjgfo.png<>RTG Guerrero<>http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
-MEXICO<>https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Ritmoson_nuevo.png<>Ritmoson<>https://bud122.budtv.tv/liverobos/ritmoson_p3/playlist.m3u8
 MEXICO<>https://i.imgur.com/H1AFRJh.png<>RTQ Queretaro<>http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-MEXICO<>http://allvectorlogo.com/img/2016/07/televisa-deportes-network-tdn-logo.png<>TDN<>https://robos2.elrobacanales.com/budtv/Eventos_BudTv_TDN_StarTv_150/playlist.m3u8
-MEXICO<>http://fotos.e-consulta.com/telehit1_0.jpg<>TeleHit<>https://bud122.budtv.tv/liverobos/telehit_p3/playlist.m3u8
-MEXICO<>http://mediavyasa.mx/archivos/representantes/logo/logoteleformula.jpg<>Teleformula<>http://gformula.mmdlive.lldns.net/gformula/596433f167b64696bb03398fecdefbad/chunklist_b732000.m3u8
+MEXICO<>https://i.imgur.com/E2o6QpF.png<>TDN<>https://live97.elrobacanales.com/budtv/Eventos_BudTv_TDN_StarTv_150/playlist.m3u8
 MEXICO<>https://i.imgur.com/3orwGcy.png<>Telemar Campeche<>http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 MEXICO<>https://i.imgur.com/u4wj40K.jpg<>Telemax Sonora<>http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8
 MEXICO<>https://i.imgur.com/RWsmqRF.png<>Teleritmo<>http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 MEXICO<>https://i.imgur.com/DsVc3rO.png<>Tlaxcala TV<>http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 MEXICO<>http://www.transmediatelevision.com/wp-content/uploads/2017/05/logotransmedia-01-1.png<>Transmedia TV Morelia<>http://st2.worldkast.com/8022/smil:8022.smil/playlist.m3u8
+MEXICO<>http://www.trecevisionyucatan.com.mx/files-content/conf/logo_left.png<>Trecevision Yucatan<>http://streamingcws10.com:1935/trecevision/videotrecevision/chunklist_w1592230401_DVR.m3u8
 MEXICO<>https://i.imgur.com/AfSXooZ.png<>TvAcapulco<>http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
 MEXICO<>https://i.imgur.com/0HnNJKm.png<>TVMAS Veracruz<>http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 MEXICO<>https://i.imgur.com/FqtpjZs.jpg<>TVP Mazatlan<>https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
@@ -186,7 +180,6 @@ Noticias<>https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA
 Noticias<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573359026-Imagen.png<>CABLENOTICIAS HD<>http://ragnaroktv.com/hls_live/kr/CABLENOTICIAS_HD/Mza0MDIwMDE1MgEA/cablenoticias.m3u8	 
 Noticias<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377651117-Imagen.jpg<>CNN ESPANOL<>http://ragnaroktv.com/hls_live/kr/CNN_ESPANOL/Mza0MDIwMDE1MgEA/cnnee.m3u8	 
 GROUP:Premium
-Premium<>https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png<>~ Latino Premium ~<>http://50.7.56.2:8016
 Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505946140111-Imagen.jpg<>HBO HD SUB<>http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/Mza0MDIwMDE1MgEA/hbohd_sub.m3u8	 
 Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876420732-Imagen.jpg<>HBO 2 HD<>http://ragnaroktv.com/hls_live/kr/HBO_2_HD/Mza0MDIwMDE1MgEA/hb02.m3u8	 
 Premium<>http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876486946-Imagen.jpg<>HBO FAMILY HD<>http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/Mza0MDIwMDE1MgEA/hb0fam.m3u8	 
